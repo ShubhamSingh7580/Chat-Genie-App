@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat-Genie</title>
+    <link rel="icon" type="image/png" href="images/appicon2.png" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <link rel="stylesheet" href="Chatbot.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/universal-sentence-encoder"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <div class="navbar" id="navMenu">
+        <a href="allfeatures.html" title="App Features">App Features</a>
+        <a href="list.html" title="List of Qs">List of Qs</a>
+        <a href="courseinfo.html" title="Course Info">Course Info</a>
+        <a href="facultyinfo.html" title="Faculty Info">Faculty Info</a>
+        <a href="about.html" title="About College">About College</a>
+        <a href="map.html" title="Campus Map">Campus Map</a>
+        <a href="contact.html" title="Contact Us">Contact Us</a>
+      </div>
+
+      <div class="nav-menu-btn">
+        <i
+          id="Menu"
+          class="bx bx-menu"
+          onclick="myMenuFunction()"
+          title="Menu"
+        ></i>
+        <i id="Cross" class="bx bxs-x-circle" title="Close"></i>
+      </div>
+      <h2 class="h2">Chatbot</h2>
+      <button id="toggle-dark">Dark Mode</button>
+      <i
+        class="bx bx-edit new-chat-btn"
+        onclick="startNewChat()"
+        title="New Chat"
+      ></i>
+    </header>
+
+    <div class="chat-container">
+      <header>
+        <h2>Chatbot</h2>
+      </header>
+
+      <ul class="chatbox" id="chatbox">
+        <li class="chat incoming">
+          <p>
+            Hey!✋Let's solve your university related queries together.<br />My
+            name is Chat-Genie, your virtual assistant.<br />Ask me anything
+            about the courses, admissions or campus life.<br />You can also
+            explore the 'List of Questions' for common queries.
+          </p>
+        </li>
+      </ul>
+
+      <div class="chat-input">
+        <textarea
+          id="user-input"
+          placeholder="Enter a message..."
+          required
+        ></textarea>
+        <button id="mic-btn" title="Voice Input">
+          <i class="bx bxs-microphone"></i>
+        </button>
+        <span id="send-btn" class="material-symbols-outlined">Send</span>
+      </div>
+    </div>
+
+    <div id="fullscreen-container" class="hidden">
+      <img id="fullscreen-image" alt="quest-img" />
+      <div class="image-buttons">
+        <i class="bx bxs-x-circle" id="close-btn"></i>
+      </div>
+    </div>
+
+    <script>
+      function myMenuFunction() {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        if (navMenu.className === "navbar") {
+          navMenu.className += " responsive";
+          navMenuBtn.classList.add("active");
+          menuBtn.style.display = "none";
+          crossBtn.style.display = "flex";
+          document.addEventListener("click", closeMenuOnClickOutside);
+        } else {
+          navMenu.className = "navbar";
+          navMenuBtn.classList.remove("active");
+          crossBtn.style.display = "none";
+          menuBtn.style.display = "flex";
+          document.removeEventListener("click", closeMenuOnClickOutside);
+        }
+      }
+      function closeMenuOnClickOutside(event) {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        if (
+          !navMenu.contains(event.target) &&
+          !navMenuBtn.contains(event.target)
+        ) {
+          navMenu.className = "navbar";
+          menuBtn.style.display = "flex";
+          crossBtn.style.display = "none";
+          document.removeEventListener("click", closeMenuOnClickOutside);
+        }
+      }
+      document.getElementById("Cross").addEventListener("click", function () {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        navMenu.className = "navbar";
+        menuBtn.style.display = "flex";
+        crossBtn.style.display = "none";
+        navMenuBtn.classList.remove("active");
+        document.removeEventListener("click", closeMenuOnClickOutside);
+      });
+    </script>
+    <script>
+      const micBtn = document.getElementById("mic-btn");
+      const userInputField = document.getElementById("user-input");
+
+      micBtn.addEventListener("click", () => {
+        const SpeechRecognition =
+          window.SpeechRecognition || window.webkitSpeechRecognition;
+
+        if (!"SpeechRecognition") {
+          alert("Your browser doesn't support voice recognition.");
+          return;
+        }
+        const recognition = new SpeechRecognition();
+        recognition.lang = "en-IN";
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+
+        recognition.start();
+
+        recognition.onresult = (event) => {
+          const speechResult = event.results[0][0].transcript;
+          userInputField.value = speechResult;
+        };
+        recognition.onerror = (event) => {
+          alert("Voice input error:" + event.error);
+        };
+      });
+    </script>
+
+    <script>
+      function startNewChat() {
+        const chatbox = document.querySelector(".chatbox");
+        chatbox.innerHTML = `<li class="chat incoming">
+          <p>
+            Hey!✋Let's solve your university related queries together.<br>My name is Chat-Genie, your virtual assistant.<br>Ask me anything about the courses, admissions or campus life.<br>You can also explore the 'List of Questions' for common queries.
+          </p>
+        </li>
+        `;
+        document.querySelector(".chat-input textarea").focus();
+      }
+    </script>
+    <script src="chatbot.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us</title>
+    <link rel="icon" type="image/png" href="images/appicon2.png" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Outfit", sans-serif;
+        background: linear-gradient(to right, #f5e661, #f6bcbc, #fc51ac);
+      }
+      body.blur-active {
+        filter: blur(5px);
+      }
+    </style>
+  </head>
+  <body>
+    <header class="header">
+      <div class="navbar" id="navMenu">
+        <a href="features.html">App Features</a>
+        <a href="Chatbot.html">Chatbot</a>
+        <a href="list.html">List of Qs</a>
+        <a href="courseinfo.html">Course Info</a>
+        <a href="facultyinfo.html">Faculty Info</a>
+        <a href="about.html">About College</a>
+        <a href="map.html">Campus Map</a>
+      </div>
+
+      <div class="nav-menu-btn">
+        <i
+          id="Menu"
+          class="bx bx-menu"
+          onclick="myMenuFunction()"
+          title="Menu"
+        ></i>
+        <i id="Cross" class="bx bxs-x-circle" title="Close"></i>
+      </div>
+      <h2>Feedback Form</h2>
+    </header>
+
+    <section class="contact">
+      <div class="content">
+        <h2>Contact Us</h2>
+        <p>
+          We are always happy to hear from our students and peoples. If you have
+          any questions or feedback, so just fill the form and send it to us.<br />
+          Please do not hesitate to contact us.<br />
+          We will respond to your query as soon as possible. <br />
+          You can contact us at any time. <br />
+          THANK YOU.
+        </p>
+      </div>
+      <div class="features-container">
+        <div class="feature-card" data-feature="1">
+          <h3>1</h3>
+          <p>Write, Express Yourself and Get Things Done Effortlessly.</p>
+          <img src="images/Express1.png" alt="Feature 1" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(1)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="2">
+          <h3>2</h3>
+          <p>Didn't Find Your Answer? Ask Here!</p>
+          <img src="images/Askhere.png" alt="Feature 2" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(2)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="3">
+          <h3>3</h3>
+          <p>Share Your University Experience.</p>
+          <img src="images/UniversityExp.png" alt="Feature 3" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(3)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="4">
+          <h3>4</h3>
+          <p>App Feedback &amp; Suggestions.</p>
+          <img src="images/Feed-img.png" alt="Feature 4" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(4)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="5">
+          <h3>5</h3>
+          <p>Report Issues and Suggestions.</p>
+          <img src="images/report-issue.png" alt="Feature 5" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(5)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="6">
+          <h3>6</h3>
+          <p>Request a New Feature.</p>
+          <img src="images/new-feature.png" alt="Feature 6" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(6)"></i>
+        </div>
+
+        <div class="feature-card" data-feature="7">
+          <h3>7</h3>
+          <p>Help Us, Improve the Student Experience.</p>
+          <img src="images/HelpUs.png" alt="Feature 7" />
+          <i class="bx bxs-plus-circle plus-icon" onclick="openFeature(7)"></i>
+        </div>
+      </div>
+
+      <div id="expandedFeature1" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(1)"
+        ></i>
+        <h3>Write, Express Yourself and Get Things Done Effortlessly.</h3>
+        <p>
+          At BBAU Satellite Campus, Amethi, we believe that every student and
+          faculty member should have a platform to express their thoughts,
+          concerns, and ideas without any barriers. Our feedback form provides
+          an easy and convenient way to share your views, whether it's about
+          academics, infrastructure, facilities, or suggestions for improvement.
+          By using this form, you can communicate directly with the concerned
+          authorities and contribute to enhancing the overall university
+          experience.
+        </p>
+        <img src="images/express-exp.png" alt="Feature 1" />
+        <p>
+          This feature is designed to give students and faculty a direct voice.
+          Whether you want to share an achievement, report an issue, or express
+          your views about university life, the feedback form is the perfect
+          platform. Your ideas and feedback won't go unnoticed - they'll reach
+          the concerned department, helping to create positive change faster.
+        </p>
+      </div>
+
+      <div id="expandedFeature2" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(2)"
+        ></i>
+        <h3>Didn't Find Your Answer? Ask Here!</h3>
+        <p>
+          Our chatbot is designed to assist students with quick answers about
+          university-related queries. However, if you didn't get the exact
+          information you were looking for, don't worry! You can simply submit
+          your question through the feedback form, and the university team will
+          review and respond to it as soon as possible. This ensures that every
+          student gets reliable and accurate information to help them navigate
+          their academic journey with ease.
+        </p>
+        <img src="images/askhere-exp.png" alt="Feature 2" />
+        <p>
+          If the Chatbot didn't provide the exact solution to your query, you
+          can ask it directly through the feedback form. This ensures that
+          complex, course-specific, or administrative-related questions can be
+          addressed by university staff. From exam-related queries to
+          administrative clarifications, every question is reviewed carefully so
+          that students can get the answers they need.
+        </p>
+      </div>
+
+      <div id="expandedFeature3" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(3)"
+        ></i>
+        <h3>Share Your University Experience.</h3>
+        <p>
+          Your experience at BBAU Satellite Campus, Amethi, matters! Whether you
+          have positive feedback, a suggestion for improvement, or a concern
+          about any aspect of the university, this is the place to share it.
+          Your valuable insights help the administration understand student
+          needs better and take action to create a more engaging, comfortable,
+          and supportive learning environment. By voicing your thoughts, you
+          contribute to shaping the university experience for yourself and
+          future students.
+        </p>
+        <img src="images/university-exp.png" alt="Feature 3" />
+        <p>
+          Your university experience shapes the learning environment, and
+          sharing your experience helps improve it. Whether it's a compliment
+          about the teaching staff, a suggestion for more extracurricular
+          activities, or feedback on how to improve classroom facilities, this
+          is the place to raise it. Every feedback helps improve the overall
+          quality of education and student satisfaction.
+        </p>
+      </div>
+
+      <div id="expandedFeature4" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(4)"
+        ></i>
+        <h3>App Feedback &amp; Suggestions.</h3>
+        <p>
+          This app is designed to make university-related tasks easier, but we
+          know that there's always room for improvement. If you have any
+          feedback regarding the app's performance, usability, design, or
+          features, let us know! Your suggestions can help us make the app more
+          efficient, user-friendly, and accessible for all students. Whether
+          it's a small bug or a new feature idea, we welcome all your thoughts
+          to improve this digital tool.
+        </p>
+        <img src="images/feedback-exp.png" alt="Feature 4" />
+        <p>
+          We know how important it is to have a smooth digital experience. This
+          section lets you highlight bugs, lags, and any other issues with the
+          app. But it's not just about problems—you can also suggest new
+          features like enhanced navigation, course updates, or event reminders
+          that would make the app more useful. Every suggestion counts toward
+          building a better app for the university community.
+        </p>
+      </div>
+
+      <div id="expandedFeature5" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(5)"
+        ></i>
+        <h3>Report Issues and Suggestions.</h3>
+        <p>
+          If you have encountered any problems related to university facilities,
+          academics, or administration, use this section to report them. Whether
+          it's an issue with classroom infrastructure, Wi-Fi problems,
+          maintenance concerns, or academic-related difficulties, your feedback
+          will help the authorities identify and resolve them efficiently. Your
+          voice can bring positive change and ensure that all students have
+          access to the best possible resources and facilities.
+        </p>
+        <img src="images/issue-exp.png" alt="Feature 5" />
+        <p>
+          If you've faced inconveniences in classrooms, libraries, hostels, or
+          elsewhere on campus, use this feature to report the problem. For
+          example, you can report if a lecture hall projector isn't working, if
+          Wi-Fi is down, or if certain facilities aren't being maintained
+          properly. These reports allow the university administration to address
+          concerns quickly and improve campus life.
+        </p>
+      </div>
+
+      <div id="expandedFeature6" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(6)"
+        ></i>
+        <h3>Request a New Feature.</h3>
+        <p>
+          Have an idea that can improve the chatbot or this university app? We
+          are always looking for ways to enhance the user experience! If you
+          think a new feature should be added—whether it's related to course
+          materials, event updates, student networking, or any other
+          improvement— let us know. We value your creativity and innovation, and
+          the best suggestions may be implemented in future updates.
+        </p>
+        <img src="images/newfeature-exp.png" alt="Feature 6" />
+        <p>
+          Innovation doesn't stop at technology - your ideas can transform the
+          app and chatbot! If you think the app could benefit from new tools,
+          enhanced sections, or course-related features, submit your suggestions
+          here. This way, we can work together to create a more tailored
+          experience that fits the unique needs of BBAU Satellite Campus
+          students.
+        </p>
+      </div>
+
+      <div id="expandedFeature7" class="expanded-card">
+        <i
+          class="bx bxs-message-square-x close-icon-x"
+          onclick="closeFeature(7)"
+        ></i>
+        <h3>Help Us, Improve the Student Experience.</h3>
+        <p>
+          The primary goal of this feedback system is to create a better
+          learning and campus experience for all students at BBAU Satellite
+          Campus, Amethi. Your feedback, suggestions, and concerns help the
+          administration make informed decisions to improve the university
+          environment. Whether it's related to academics, infrastructure, hostel
+          facilities, events, or student support services, every response
+          counts. By sharing your thoughts, you actively contribute to the
+          development and progress of the university.
+        </p>
+        <img src="images/improve-exp.png" alt="Feature 7" />
+        <p>
+          Your feedback is at the heart of university improvements. This section
+          encourages students to share thoughts, suggestions, and concerns that
+          can enhance the overall student experience. Whether you want better
+          cafeteria services, improved bus facilities, or more workshops, your
+          voice can help shape the future of the campus.
+        </p>
+      </div>
+
+      <div class="container">
+        <div class="contactInfo">
+          <div class="box2">
+            <div class="icon2">
+              <i class="bx bxs-map"></i>
+            </div>
+            <div class="text">
+              <h3>Address:-</h3>
+              <p>
+                Babasaheb Bhimrao Ambedkar University, Satellite Campus,<br />
+                Amethi, 227413
+              </p>
+            </div>
+          </div>
+
+          <div class="box2">
+            <div class="icon2">
+              <i class="bx bxs-mobile"></i>
+            </div>
+            <div class="text">
+              <h3>Phone Number:-</h3>
+              <p>+91 9935513331 &amp; +91 7905043562</p>
+            </div>
+          </div>
+
+          <div class="box2">
+            <div class="icon2">
+              <i class="bx bxl-gmail"></i>
+            </div>
+            <div class="text">
+              <h3>Email ID:-</h3>
+              <p>registrar@bbau.ac.in &amp; info@bbau.ac.in</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="main-wrapper">
+          <div class="contactForm" id="contactForm">
+            <form
+              action="https://api.web3forms.com/submit"
+              method="POST"
+              class="contact-left"
+            >
+              <div class="contact-left-title">
+                <h2>Get in touch</h2>
+                <hr />
+              </div>
+              <input
+                type="hidden"
+                name="access_key"
+                value="efcc0e20-68cf-47bc-a26a-b4c0910b3d0f"
+              />
+              <div class="nameclass">
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="First name"
+                  class="contact-inputs"
+                  required
+                />
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="Last name"
+                  class="contact-inputs"
+                  required
+                />
+              </div>
+              <input
+                type="email"
+                name="email"
+                placeholder="Email Address"
+                class="contact-inputs"
+                required
+              />
+              <input
+                type="text"
+                name="subject"
+                placeholder="Subject"
+                class="contact-inputs"
+                required
+              />
+              <textarea
+                name="message"
+                placeholder="Your Message..."
+                class="contact-inputs"
+                required
+              ></textarea>
+              <button type="submit">Submit Form</button>
+            </form>
+          </div>
+
+          <button id="openFeedbackBtn">Open Feedback Form</button>
+
+          <div class="feedback-form-wrapper">
+            <div class="wrapper-box">
+              <form
+                action="https://api.web3forms.com/submit"
+                method="post"
+                class="feed-form"
+                id="feedbackForm"
+              >
+                <input
+                  type="hidden"
+                  name="access_key"
+                  value="efcc0e20-68cf-47bc-a26a-b4c0910b3d0f"
+                />
+
+                <div class="feed-title">
+                  <h2>Feedback Form</h2>
+                  <hr />
+                </div>
+
+                <div class="rating-opinion-box">
+                  <div class="rating">
+                    <input
+                      type="number"
+                      name="Rating"
+                      id="rating-input"
+                      hidden
+                    />
+                    <i
+                      class="bx bx-star star"
+                      style="--i: 0"
+                      title="1-Star"
+                      onclick="setRating(1)"
+                    ></i>
+                    <i
+                      class="bx bx-star star"
+                      style="--i: 1"
+                      title="2-Star"
+                      onclick="setRating(2)"
+                    ></i>
+                    <i
+                      class="bx bx-star star"
+                      style="--i: 2"
+                      title="3-Star"
+                      onclick="setRating(3)"
+                    ></i>
+                    <i
+                      class="bx bx-star star"
+                      style="--i: 3"
+                      title="4-Star"
+                      onclick="setRating(4)"
+                    ></i>
+                    <i
+                      class="bx bx-star star"
+                      style="--i: 4"
+                      title="5-Star"
+                      onclick="setRating(5)"
+                    ></i>
+                  </div>
+                  <textarea
+                    id="opinion-textarea"
+                    name="Opinion"
+                    placeholder="Write Your Opinion..."
+                    required
+                  ></textarea>
+                  <div class="btn-group">
+                    <button
+                      type="button"
+                      class="btn feed-submit"
+                      onclick="validateFeedback()"
+                    >
+                      Submit
+                    </button>
+                    <button type="button" class="btn cancel">Cancel</button>
+                  </div>
+                </div>
+
+                <div class="feed-post" style="display: none">
+                  <i class="bx bxs-x-circle feedCross"></i>
+                  <img
+                    src="images/feed-thank.jpg"
+                    alt="Congrats"
+                    class="thankImg"
+                  />
+                  <div class="feed-text">
+                    Thank you for your feedback!<br />
+                    <p>You can also edit your response.</p>
+                  </div>
+                  <div class="feed-buttons">
+                    <button type="button" class="feed-edit">EDIT</button>
+                    <button type="submit" class="feed-final-submit">
+                      Final Submit
+                    </button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      function openFeature(featureId) {
+        document.getElementById(`expandedFeature${featureId}`).style.display =
+          "block";
+      }
+      function closeFeature(featureId) {
+        document.getElementById(`expandedFeature${featureId}`).style.display =
+          "none";
+      }
+    </script>
+    <script>
+      document.querySelectorAll(".plus-icon").forEach((button) => {
+        button.addEventListener("click", function () {
+          let parentCard = this.parentElement;
+          let expandedCard = parentCard.querySelector(".expanded-card");
+          expandedCard.style.display = "flex";
+        });
+      });
+      document.querySelectorAll(".close-icon").forEach((button) => {
+        button.addEventListener("click", function () {
+          this.parentElement.style.display = "none";
+        });
+      });
+    </script>
+
+    <script>
+      const openFeedbackBtn = document.getElementById("openFeedbackBtn");
+      const formWrapper = document.querySelector(".feedback-form-wrapper");
+      const cancelBtn = document.querySelector(".btn.cancel");
+      const editBtn = document.querySelector(".feed-edit");
+      const feedPost = document.querySelector(".feed-post");
+      const mainWrapper = document.querySelector(".main-wrapper");
+      const rateBox = document.querySelector(".rating-opinion-box");
+      const feedTitle = document.querySelector(".feed-title");
+      const feedCross = document.querySelector(".feedCross");
+
+      openFeedbackBtn.addEventListener("click", () => {
+        formWrapper.style.display = "block";
+        mainWrapper.classList.add("blur-active");
+      });
+      cancelBtn.addEventListener("click", () => {
+        formWrapper.style.display = "none";
+        mainWrapper.classList.remove("blur-active");
+      });
+      feedCross.addEventListener("click", () => {
+        formWrapper.style.display = "none";
+        mainWrapper.classList.remove("blur-active");
+      });
+      editBtn.addEventListener("click", () => {
+        feedPost.style.display = "none";
+        feedTitle.style.display = "block";
+        rateBox.style.display = "block";
+      });
+    </script>
+    <script>
+      const allStar = document.querySelectorAll(".rating .star");
+      const ratingValue = document.querySelector(".rating input");
+
+      allStar.forEach((item, idx) => {
+        item.addEventListener("click", function () {
+          let click = 0;
+          ratingValue.value = idx + 1;
+          console.log(ratingValue.value);
+          allStar.forEach((i) => {
+            i.classList.replace("bxs-star", "bx-star");
+            i.classList.remove("active");
+          });
+          for (let i = 0; i < allStar.length; i++) {
+            if (i <= idx) {
+              allStar[i].classList.replace("bx-star", "bxs-star");
+              allStar[i].classList.add("active");
+            } else {
+              allStar[i].style.setProperty("--i", click);
+              click++;
+            }
+          }
+        });
+      });
+    </script>
+    <script>
+      function setRating(value) {
+        document.getElementById("rating-input").value = value;
+
+        const fstars = document.querySelectorAll(".star");
+        fstars.forEach((star, index) => {
+          if (index < value) {
+            star.classList.add("active");
+          } else {
+            star.classList.remove("active");
+          }
+        });
+      }
+      function validateFeedback() {
+        const rating = document.getElementById("rating-input").value;
+        const opinion = document
+          .getElementById("opinion-textarea")
+          .value.trim();
+
+        let isValid = true;
+
+        if (!rating) {
+          alert("Please give us a rating.");
+          isValid = false;
+        }
+        if (!opinion) {
+          alert("Please write your opinion.");
+          isValid = false;
+        }
+        if (isValid) {
+          document.querySelector(".feed-post").style.display = "block";
+          document.querySelector(".rating-opinion-box").style.display = "none";
+          document.querySelector(".feed-title").style.display = "none";
+        }
+        return false;
+      }
+    </script>
+
+    <script>
+      function myMenuFunction() {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        if (navMenu.className === "navbar") {
+          navMenu.className += " responsive";
+          navMenuBtn.classList.add("active");
+          menuBtn.style.display = "none";
+          crossBtn.style.display = "flex";
+          document.addEventListener("click", closeMenuOnClickOutside);
+        } else {
+          navMenu.className = "navbar";
+          navMenuBtn.classList.remove("active");
+          crossBtn.style.display = "none";
+          menuBtn.style.display = "flex";
+          document.removeEventListener("click", closeMenuOnClickOutside);
+        }
+      }
+      function closeMenuOnClickOutside(event) {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        if (
+          !navMenu.contains(event.target) &&
+          !navMenuBtn.contains(event.target)
+        ) {
+          navMenu.className = "navbar";
+          menuBtn.style.display = "flex";
+          crossBtn.style.display = "none";
+          document.removeEventListener("click", closeMenuOnClickOutside);
+        }
+      }
+      document.getElementById("Cross").addEventListener("click", function () {
+        var navMenu = document.getElementById("navMenu");
+        var navMenuBtn = document.querySelector(".nav-menu-btn");
+        var menuBtn = document.getElementById("Menu");
+        var crossBtn = document.getElementById("Cross");
+
+        navMenu.className = "navbar";
+        menuBtn.style.display = "flex";
+        crossBtn.style.display = "none";
+        navMenuBtn.classList.remove("active");
+        document.removeEventListener("click", closeMenuOnClickOutside);
+      });
+    </script>
+  </body>
+</html>

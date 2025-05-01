@@ -1,0 +1,1553 @@
+[
+  {
+    "question": "Hii Chat-Genie!",
+    "answer": "Hey! great to see you. Your Digital Assistant Chat-Genie is always here to help you by giving answers to every questions you have. If you have any query then please proceed to ask, I'm here to help you by giving answer to your questions."
+  },
+  {
+    "question": "Hello Chat-Genie!",
+    "answer": "Hello! I really feel great to see you here. Chat-Genie is always ready to help you by giving answers to every questions you have. If you have any query then please go ahead, I'm ready to answer your questions."
+  },
+  {
+    "question": "Who are you?",
+    "answer": "I'm your Digital Assistant- Chat-Genie, here to help you navigate all the informations related to the university! Whether you have questions or need any guidance, I'm just a message away. So tell me, How can I assist you today?"
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm doing great, thank you for asking ! I'm just a bunch of code. So, I don't have feelings, but I'm ready and excited to assist you today! How can I help you?"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "My name is Chat-Genie, your smart chat assistant, here to answer all your questions. I'm always ready to answer all your queries. Ask me anything related to the university and let's make learning and exploring easier together! Do you have any question?"
+  },
+  {
+    "question": "Yes",
+    "answer": "I'm glad to know that you have some questions to ask. Lets solve it. So, you may proceed now by asking your question."
+  },
+  {
+    "question": "No",
+    "answer": "It's glad that you don't have any problem. If you have any questions, feel free to ask. I'm here to help you by giving answers to any questions you have."
+  },
+  {
+    "question": "What can you do?",
+    "answer": "I can help you with all your queries. I can answer, the questions about courses, lectures, lab sessions, and other information related to the university. I'm here to help you by giving answers to any questions you have."
+  },
+  {
+    "question": "What is the name of the University?",
+    "answer": "The Babasaheb Bhimrao Ambedkar University, Satellite Centre, Amethi is the name of the University."
+  },
+  {
+    "question": "Name of the University?",
+    "answer": "The Babasaheb Bhimrao Ambedkar University, Satellite Centre, Amethi is the name of the University."
+  },
+  {
+    "question": "What are the college hours?",
+    "answer": "University's timing is 9am to 5pm but you can use this chatbot anytime and talk to me anytime as your need."
+  },
+  {
+    "question": "Timing of the University?",
+    "answer": "University's timing is 9am to 5pm but you can use this chatbot anytime and talk to me anytime as your need."
+  },
+  {
+    "question": "Where is the college located?",
+    "answer": "The Babasaheb Bhimrao Ambedkar University, Satellite Centre, Amethi is located Near Tikarmafi-Police Station, Near Shiv Mandir, Ashram, Tikarmafi, Amethi- 227413"
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can contact our support team via mail at <a href='mailto:info@bbau.ac.in'>info@bbau.ac.in</a> and <a href='mailto:registrar@bbau.ac.in'>registrar@bbau.ac.in</a>. You can directly email at the given email and/or you can send your questions via Contact us box in the Contact Us page. The team will respond you as soon as possible."
+  },
+  {
+    "question": "How can I contact support if I have further questions?",
+    "answer": "You can contact our support team via mail at <a href='mailto:info@bbau.ac.in'>info@bbau.ac.in</a> and <a href='mailto:registrar@bbau.ac.in'>registrar@bbau.ac.in</a>. You can directly email at the given email and/or you can send your questions via Contact us box in the Contact Us page. The team will respond you as soon as possible."
+  },
+  {
+    "question": "How many departments are there in BBAU, Satellite Campus?",
+    "answer": "Currently, In BBAU, Satellite Campus, there are so many departments like <br>CS(Computer Science), <br>IT(Information Technology), <br>Commerce, <br>F&T(Food and Technology), <br>Pharmacy, <br>English, <br>History, <br>Sociology, etc."
+  },
+  {
+    "question": "What are the courses available in BBAU, Satellite Campus?",
+    "answer": "Currently, In BBAU, Satellite campus, there are so many courses available like  <br> BCA-H(Bachelor of Computer Application-Honors) in CS Department, <br> BScIT(Bachelor of Science in Information Technology-Honors) in IT Department, <br>BCom(Bachelor of Commerce) in Commerce Department, <br>BFST(Bachelor in Food Science and Technology) in F&T Department, <br>D.Pharma(Diploma in Pharmacy) and B.Pharma(Bachelor in Pharmacy) in Pharmacy Department, <br>BA-Eng(Bachelor of Arts in English) and MA-Eng(Master of Arts in English) in English Department, <br>BA-His(Bachelor of Arts in History) and MA-His(Master of Arts in History) in History Department, <br>BA-Soc(Bachelor of Arts in Sociology) in Sociology Department, <br>Phd(Phd in Food Science), (Phd in English)."
+  },
+  {
+    "question": "Can you give me the names of the BCA department's Faculty?",
+    "answer": "Yes, currently there are three faculty in BCA department whose names are <br>Dr. Ravindra Nath Katiyar (Coordinator of CS department), <br>Dr. Aditya Khamparia (Ass. Professor of CS department), <br>Dr. Yogadhar Pandey (Ass. Professor of CS department)."
+  },
+  {
+    "question": "Can you give me the names of the BScIT department's Faculty?",
+    "answer": "Yes, currently there are two faculty in BScIT department whose names are <br>Dr. Sandeep Kumar Nayak (Coordinator of IT department and Director of BBAU, Satellite Campus), <br>Dr. Neeraj Kumar Tiwari (Ass. Professor of IT department)."
+  },
+  {
+    "question": "Can you give me the names of the BCom department's Faculty?",
+    "answer": "Yes, currently there are three faculty in BCom department whose name is <br>Dr. Leena S. Shimpi (Coordinator of Commerce department), <br>Dr. Prince Singh(Guest Faculty of Commerce department), <br>Mr. Aman Mishra (Guest Faculty of Commerce department)."
+  },
+  {
+    "question": "Can you give me the names of the BFST department's Faculty?",
+    "answer": "Yes, currently there are three faculty in BFST department whose name is <br>Dr. Harsh Pr. Sharma (Coordinator of BFST department), <br>Dr. Komal Singh (Ass. Professor of BFST department), <br>Dr. Murali Kumar Naik(Ass. Professor of BFST department)."
+  },
+  {
+    "question": "Can you give me the names of the D.Pharma And B.Pharma department's Faculty?",
+    "answer": "Yes, currently there are six faculty in Pharmacy department whose names are <br>Dr. Vijay Kumar (Coordinator of Pharmacy department), <br>Mr.Sachin Gautam (Guest Faculty of Pharmacy department), <br>Mr. Sachin Yadav (Guest Faculty of Pharmacy department), <br>Mr. Masum Ansari (Guest Faculty of Pharmacy department), <br>Mrs. Aarti Yadav (Guest Faculty of Pharmacy department), <br>Mr. Mukesh Gautam (Guest Faculty of Pharmacy department)."
+  },
+  {
+    "question": "Can you give me the names of the BA-English department's Faculty?",
+    "answer": "Yes, currently there are two faculty in BA-English department whose names are <br>Dr. B. Patra (Coordinator of English department), <br>Mrs. Richa Madanwal (Guest Faculty of English department)."
+  },
+  {
+    "question": "Can you give me the names of the BA-History department's Faculty?",
+    "answer": "Yes, currently there are four faculty in BA-History department whose names are <br>Dr. Rajesh Kumar (Coordinator of History department), <br>Dr. Sushil Kumar Pandey (Ass. Professor of History Department), <br>Dr. Arvind Kumar (Guest Faculty of History department), <br>Dr. Lalita Prashad (Guest Faculty of History department)."
+  },
+  {
+    "question": "Can you give me the names of the BA-Sociology department's Faculty?",
+    "answer": "Yes, currently there is one faculty in BA-Sociology department whose name is <br>Dr. Shankar Kumar Lal (Coordinator of Sociology department)."
+  },
+  {
+    "question": "What is the duration of the BCA program?",
+    "answer": "The BCA program is a 3-year undergraduate course, divided into 6 semesters."
+  },
+  {
+    "question": "What is the duration of the BCA-Honours program?",
+    "answer": "The BCA-Honours program is a 4-year undergraduate course, divided into 8 semesters."
+  },
+  {
+    "question": "Can you give me the image of the lecture hall of the BCA program?",
+    "answer": "Yes, please wait I'm giving you the image of the lecture hall of the BCA program. <br>",
+    "image": "images/bca.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Main Office building?",
+    "answer": "Yes, please wait I'm giving you the image of the Main office building. <br>",
+    "image": "images/mo-fv.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Auditorium from the outside?",
+    "answer": "Yes, please wait I'm giving you the image of the Auditorium from the outside. <br>",
+    "image": "images/auditorium.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Auditorium from inside?",
+    "answer": "Yes, please wait I'm giving you the image of the Auditorium from the inside. <br>",
+    "image": "images/audin.jpg"
+  },
+  {
+    "question": "Can you give me the image of the D. Pharma building?",
+    "answer": "Yes, please wait I'm giving you the image of the D. Pharma building. <br>",
+    "image": "images/dph-fv.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Cricket ground?",
+    "answer": "Yes, please wait I'm giving you the image of the Cricket ground. <br>",
+    "image": "images/cg-fv.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Volleyball and badminton Ground?",
+    "answer": "Yes, please wait I'm giving you the image of the Volleyball and badminton Ground. <br>",
+    "image": "images/vg2.jpg"
+  },
+  {
+    "question": "Can you give me the image of the lecture hall of D. Pharma and B. Pharma?",
+    "answer": "Yes, please wait I'm giving you the image of the lecture hall of D. Pharma and B. Pharma. <br>",
+    "image": "images/ldph.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Library?",
+    "answer": "Yes, please wait I'm giving you the image of the Library. <br>",
+    "image": "images/libraryoutside.jpg"
+  },
+  {
+    "question": "Can you give me the image of the University Mess?",
+    "answer": "Yes, please wait I'm giving you the image of the University Mess. <br>",
+    "image": "images/messin.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Canteen?",
+    "answer": "Yes, please wait I'm giving you the image of the Canteen. <br>",
+    "image": "images/c-fv.jpg"
+  },
+  {
+    "question": "Can you give me the image of the Boy's hostel?",
+    "answer": "Yes, please wait I'm giving you the image of the Boy's hostel. <br>",
+    "image": "images/bh.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Aditya Khamparia Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Aditya Khamparia Sir.",
+    "image": "images/Dr.AKSir.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Ravindranath Katiyar Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Ravindranath Katiyar Sir.",
+    "image": "images/ravindra.jpeg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Yogadhar Pandey Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Yogadhar Pandey Sir.",
+    "image": "images/Dr_Yogdhar.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Sandeep Kumar Nayak Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Sandeep Kumar Nayak Sir.",
+    "image": "images/DirectorSir.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Neeraj Tiwari Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Neeraj Tiwari Sir.",
+    "image": "images/DR_Neeraj_T.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Leena Shimpi Ma'am?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Leena Shimpi Ma'am.",
+    "image": "images/Leena.png"
+  },
+  {
+    "question": "Can you give me the image of Dr. Vijay Kumar Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Vijay Kumar Sir.",
+    "image": "images/drvijay.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Rajesh Kumar Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Rajesh Kumar Sir.",
+    "image": "images/drrajesh.png"
+  },
+  {
+    "question": "Can you give me the image of Dr. Sushil Kumar Pandey Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Sushil Kumar Pandey Sir.",
+    "image": "images/drsushil.png"
+  },
+  {
+    "question": "Can you give me the image of Dr. B. Patra Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. B. Patra Sir.",
+    "image": "images/drpatra.jpg"
+  },
+  {
+    "question": "Can you give me the image of Dr. Harsh Pr. Sharma Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Harsh Pr. Sharma Sir.",
+    "image": "images/drharsh.png"
+  },
+  {
+    "question": "Can you give me the image of Mrs. Komal Singh Ma'am?",
+    "answer": "Yes, Please wait, I'm giving you the image of Mrs. Komal Singh Ma'am.",
+    "image": "images/mrskomal.png"
+  },
+  {
+    "question": "Can you give me the image of Mr. K. Murali Naik Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Mr. K. Murali Naik Sir.",
+    "image": "images/mrmurali.png"
+  },
+  {
+    "question": "Can you give me the image of Dr. Sankar Kumar Lal Sir?",
+    "answer": "Yes, Please wait, I'm giving you the image of Dr. Sankar Kumar Lal Sir.",
+    "image": "images/drshankar.png"
+  },
+  {
+    "question": "What are the eligibility criteria for BCA at BBAU Satellite Centre Amethi?",
+    "answer": "The eligibility criteria for admission to BCA is a 10+2 qualification in Science stream with Mathematics as one of the subjects, and the candidate must pass with a minimum of 50% aggregate marks."
+  },
+  {
+    "question": "What is the course fee for BCA?",
+    "answer": "The course fee for BCA at the BBAU Satellite Centre Amethi is approximately ₹15,000 per year, but it is recommended to check the official website or contact the admissions office for the latest information."
+  },
+  {
+    "question": "What subjects are covered in the first semester of BCA?",
+    "answer": "The subjects in the first semester typically include -<br>Programming Fundamentals using C,<br>Computer Organization & Architecture,<br>Mathematics-I,<br>Communication Skills,<br>Environmental Science."
+  },
+  {
+    "question": "Are there internship opportunities provided by the university for BCA students?",
+    "answer": "Yes, BBAU encourages students to pursue internships during their course. Students are often provided guidance on finding internships, especially in their final year."
+  },
+  {
+    "question": "What are the career options after completing BCA?",
+    "answer": "After completing BCA, you can pursue careers in -<br>Software Development,<br>System Analyst,<br>Network Administration,<br>Database Management,<br>IT Consultancy,<br>Further studies like MScIT or MCA."
+  },
+  {
+    "question": "How do I apply for the BCA program at BBAU, Satellite Centre, Amethi?",
+    "answer": "You can apply for the BCA program through the BBAU official website during the admission period. The application process is online, and you will need to provide academic details and required documents."
+  },
+  {
+    "question": "What are the class timings for BCA students?",
+    "answer": "Class timings typically run from 9:00 AM to 4:00 PM, with breaks in between. However, the schedule may vary depending on the semester and subject."
+  },
+  {
+    "question": "Is hostel accommodation available for BCA students?",
+    "answer": "Yes, BBAU, Satellite Centre, Amethi provides hostel accommodation only for girls. You can inquire with the hostel office for availability and fees."
+  },
+  {
+    "question": "How can I get my academic transcript from the university?",
+    "answer": "You can request your academic transcript from the university's examination department. You may need to fill out a request form and provide details such as your roll number and year of passing."
+  },
+  {
+    "question": "How can I access the university's library resources online?",
+    "answer": "The university provides access to digital library resources through its official portal. You can log in using your student credentials to access e-books, journals, and other academic materials."
+  },
+  {
+    "question": "Are there any extracurricular activities or student clubs available for BCA students?",
+    "answer": "Yes, the university offers various student clubs, technical societies, and extracurricular activities such as sports, coding competitions, seminars, and cultural events that BCA students can participate in."
+  },
+  {
+    "question": "How can I contact the faculty of BCA for doubts or queries?",
+    "answer": "You can contact the faculty members via email or during their office hours. The contact details of faculty members are usually provided on the university website or you can get them through the university's administration office."
+  },
+  {
+    "question": "What is the examination pattern for BCA?",
+    "answer": "The BCA program follows a semester system, and each semester has a mid-semester exam and an end-semester exam. Additionally, there are internal assessments, assignments, and practical exams."
+  },
+  {
+    "question": "How do I download my admit card for the exams?",
+    "answer": "You can download your admit card from the official BBAU student portal. Log in using your roll number and password, and navigate to the Examination section to download it."
+  },
+  {
+    "question": "What is the passing criteria for each subject in the BCA program?",
+    "answer": "To pass a subject, a student typically needs to score at least 40% in both internal and external exams. Specific details can be found in the university's academic regulations."
+  },
+  {
+    "question": "What are the transport facilities available for students to reach the college?",
+    "answer": "If You want to reach the University from the Amethi Station or bus stand, then you will have to take e-rikshaw to reach the university but there is no any transport facility provided by the university for their students."
+  },
+  {
+    "question": "Is there a student grievance cell at the BBAU Satellite Centre Amethi?",
+    "answer": "No, there is no any student grievance cell(Complaint room) at the BBAU, Satellite Centre Amethi. BUt if you have any complaint related to any specific topic or anything, then you can write a letter and you can submit this letter to the Director's Office."
+  },
+  {
+    "question": "How can I get information about the latest notices and announcements from the University?",
+    "answer": "You can get all the informations about the latest notices and announcements from the University in your course whatsapp group."
+  },
+  {
+    "question": "Are there any language or communication skills courses available for students at the college?",
+    "answer": "Yes, there is English language or communication skills course available for students at the University along with their course of BCA."
+  },
+  {
+    "question": "How do I report a technical issue with the University's online portal?",
+    "answer": "You can email the particular technical issue on the email of the BBAU's email ID:-'' and/or you can contact in the administrative department."
+  },
+  {
+    "question": "Is there an on-campus medical facility available for students?",
+    "answer": "Sorry to say, but there is no any medical facility available for students,but there is a facility of an emergency car which is used in emergency cases."
+  },
+  {
+    "question": "Are there any workshops or training sessions on the latest IT technologies organized by the university?",
+    "answer": "No, University not organizing any such types of training sessions or workshops but the University provides the latest IT technologies training session's links which is conducted by other institutes or organizations virtually."
+  },
+  {
+    "question": "What is the dress code, if any, for students at the BBAU Satellite Centre Amethi?",
+    "answer": "There is no any dress code for the students at the BBAU Satellite Centre, Amethi. You can wear any kind of dress."
+  },
+  {
+    "question": "How can I get a refund if I decide to withdraw from the BCA program after admission?",
+    "answer": "If you want refund after the admission, then you will have to contact in the administrative department of BCA and then follow the steps as provided by them."
+  },
+  {
+    "question": "What is the process for applying for migration to another campus or university?",
+    "answer": "If you want to apply for the migration, then you will have to contact in the administrative department of BCA and then you will have to submit an application for it."
+  },
+  {
+    "question": "What facilities are available for students with disabilities at the college?",
+    "answer": "Sorry for that, but there is no any special facility are available for the students with disabilities at the university."
+  },
+  {
+    "question": "How do I apply for a transfer certificate if I wish to leave the university?",
+    "answer": "You only need to write an application and submit it to the administrative department of BCA."
+  },
+  {
+    "question": "What are the library hours, and how do I borrow or return books?",
+    "answer": "Library hours is same as college hours i.e. from 9:30 am to 5:00 pm. If you want to borrow or return books then you will have to fill a form for the library card and by using this library card, you can borrow or return books."
+  },
+  {
+    "question": "How can I participate in sports activities or access the gym facilities at the college?",
+    "answer": "If you want to participate in sports activities then you will have to contact with the head of sports department i.e. Dr. Shankar Kr. Lal and there is gym facility available but the gym is always closed due to some reasons."
+  },
+  {
+    "question": "What is the process for requesting an extension for submitting assignments or project work?",
+    "answer": "If you want to request for an extension in the submission of assignments or project work, then you will have to contact the faculty of that particular subject."
+  },
+
+  {
+    "question": "What is the eligibility criteria for applying to a scholarship?",
+    "answer": "Eligibility varies by scholarship. Generally, students must belong to a specific category (SC/ST/OBC/Minority/General), have a family income below a certain limit, and be enrolled in a recognized course at an eligible institution."
+  },
+  {
+    "question": "Which scholarships are available for students at BBAU Satellite Centre, Amethi?",
+    "answer": "Students can apply for scholarships such as the UP Government Post-Matric Scholarship, NSP (National Scholarship Portal) schemes, and other central/state-funded schemes based on category and income."
+  },
+  {
+    "question": "Where can I find the official website to apply for scholarships?",
+    "answer": "You can visit <a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a> for the UP Post-Matric Scholarship and <a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a> for NSP."
+  },
+  {
+    "question": "What documents are required for scholarship applications?",
+    "answer": "You will generally need your mark sheet, caste/income certificate, Aadhaar card, bank passbook, passport-size photo, and Bonafide certificate from the university."
+  },
+  {
+    "question": "Is Aadhaar mandatory for applying for scholarships?",
+    "answer": "Yes, Aadhaar is mandatory for the identity verification and linking with the bank account."
+  },
+  {
+    "question": "Can I apply for multiple scholarships at the same time?",
+    "answer": "No, you can not apply for the multiple scholarships at the same time, if you do then your all the scholarship forms can be rejected. Consult with your respective department first."
+  },
+  {
+    "question": "What is the last date to apply for the scholarship?",
+    "answer": "This can varies according to the rules of the government, so to know the exact date you have to regularly check for the dates."
+  },
+  {
+    "question": "How do I know whether my application is successfully submitted?",
+    "answer": "You will get the successful notification on your registered mobile number and/or registered email ID."
+  },
+  {
+    "question": "How can I check the status of my scholarship application?",
+    "answer": "You have to visit <a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a> then click on the student option and then select as per your current need- hover over it, then select your current education status, then fill the required boxes, then click on the submit and there you will see your current scholarship status."
+  },
+  {
+    "question": "I am a first-year student, how do I apply for a scholarship?",
+    "answer": "Register on the respective scholarship portal(<a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a>), fill in your details, upload necessary documents, and submit your form. Don't forget to take the printout and submit it to your institution."
+  },
+  {
+    "question": "I can't find my course in the dropdown while applying- What should I do?",
+    "answer": "If your course isn't appearing in the list, it may not have been uploaded or activated by your university on the portal. Immediately contact your university's scholarship department. Raise this problem. The course might not be added or locked by the institution yet. They can resolve this by updating the course information on the portal."
+  },
+  {
+    "question": "The website shows 'Course not locked by related institution' - how do I fix this?",
+    "answer": "This means the university hasn't approved or locked your course on the portal. Please contact the scholarship helpdesk and consult with the scholarship department of your respective course's faculty."
+  },
+  {
+    "question": "Do I need to upload my 12th mark sheet while applying for the scholarship?",
+    "answer": "Yes, for 1st-year applications, your 12th mark sheet is required as proof of qualification."
+  },
+  {
+    "question": "Which caste certificate should I upload for a fresh application?",
+    "answer": "Upload your latest and valid caste certificate issued by the government authority in your district."
+  },
+  {
+    "question": "How to upload income certificate while applying for a scholarship?",
+    "answer": "Scan your income certificate and save it as a PDF or JPEG file. While filling the form, go to the document upload section, click 'Choose File' under 'Income Certificate', select your file, and then click upload. Make sure the file is under the portal's size limit (usually 1-2MB)."
+  },
+  {
+    "question": "What to do if my institute name is not showing in the list?",
+    "answer": "The institute might not be registered or approved yet on the portal. Contact the university's scholarship department immediately and request them to get the institute listed. You can also raise a query on the portal's support page."
+  },
+  {
+    "question": "I made a mistake in my application - how can I edit?",
+    "answer": "If you haven't submitted the final form, just log in and make corrections. If submitted, you'll need to contact the institution for rejection/reset. Some portals allow corrections during a limited 'edit window' after rejection."
+  },
+  {
+    "question": "Is it necessary to upload a Bonafide certificate from the college?",
+    "answer": "Yes, a Bonafide certificate is required to verify that you are an active student enrolled in the mentioned course. Without it, your application might get rejected."
+  },
+  {
+    "question": "I don't have a bank account - can I use my parent's bank account for the scholarship?",
+    "answer": "Nope. The scholarship must go into a bank account in your own name. Open a student savings account as soon as possible and link it with your Aadhaar and then apply for the scholarship form."
+  },
+  {
+    "question": "How can I renew my scholarship for the second/third/fourth year?",
+    "answer": "Log in to the scholarship portal(<a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a>) using your previous year's credentials, select the renewal option, update your details, and upload the latest documents."
+  },
+  {
+    "question": "My course is not showing while renewing the scholarship - what should I do?",
+    "answer": "This is likely due to the course not being locked or updated by the institution. Contact the institution's scholarship in-charge."
+  },
+  {
+    "question": "What does 'Course not locked by related institution' mean during renewal?",
+    "answer": "It means the institution hasn't verified or locked your course in the portal. Reach out to the university's scholarship department."
+  },
+  {
+    "question": "Do I need to upload all documents again during the renewal?",
+    "answer": "Yes, during renewal you must upload updated documents such as your latest mark sheet, new income certificate (if required), Bonafide certificate, and other necessary files. Always refer to the specific scholarship guidelines for the most accurate requirement."
+  },
+  {
+    "question": "My previous scholarship amount is not credited - can I still apply for renewal?",
+    "answer": "Yes, you can still apply for renewal. But make sure to raise a complaint on the PFMS portal or with the institution regarding the missing payment."
+  },
+  {
+    "question": "Can I renew the scholarship if I have backlogs?",
+    "answer": "Renewal eligibility with backlogs depends on the specific rules of the scholarship scheme. Some scholarships allow it with conditions, while others require students to pass all subjects. You should review the terms of the scheme or contact with your department for clarity."
+  },
+  {
+    "question": "I have changed my course - am I still eligible for renewal?",
+    "answer": "No, renewal is only allowed for the same course. If you switch to a different course or institution, you must apply as a fresh applicant."
+  },
+  {
+    "question": "Is Bonafide certificate required again during renewal?",
+    "answer": "Yes, a fresh Bonafide certificate is required every year to confirm you are still enrolled in the course."
+  },
+  {
+    "question": "Should I have to upload my last year's mark sheet during renewal?",
+    "answer": "Absolutely. It's required to prove academic progress. Failure to upload it may result in rejection."
+  },
+  {
+    "question": "I missed the last date for renewal - what can I do now?",
+    "answer": "Sadly, nothing. Once the portal is closed, late submissions aren't accepted. Set reminders next time or follow the university notice board closely."
+  },
+  {
+    "question": "The scholarship portal is not opening - what should I do?",
+    "answer": "If the portal isn't loading, try accessing it during non-peak hours, clear your browser cache, or use a different browser or device. You can also try switching from mobile to desktop. If the problem persists, check for any maintenance notice on the homepage or contact tech support."
+  },
+  {
+    "question": "I'm getting an 'Invalid Details' error while logging in - how to resolve it?",
+    "answer": "Double-check your registration ID, date of birth format, and password. Make sure Caps Lock isn't on. If the error continues, use the 'Forgot Password' option or reach out to the helpdesk via email or helpline provided on the portal."
+  },
+  {
+    "question": "My Aadhaar is not getting verified - how can I fix this?",
+    "answer": "Make sure your Aadhaar card is linked with your mobile number for OTP authentication. Also ensure your bank account is seeded with Aadhaar. Visit the nearest CSC center or your bank to verify Aadhaar status if required."
+  },
+  {
+    "question": "The upload button is not working - how to submit documents?",
+    "answer": "Make sure your documents are in the correct format (PDF/JPEG) and within the file size limit (usually under 2MB). Refresh the page or switch your browser. If nothing works, try using a different device or internet connection."
+  },
+  {
+    "question": "My course name is missing in the dropdown list - what should I do?",
+    "answer": "If your course is missing in the list, it may not have been uploaded or activated by the university on the portal. Immediately contact the university's scholarship department. Raise this problem. The course might not be added or locked by the institution yet. They can resolve this by updating the course information on the portal."
+  },
+  {
+    "question": "I can't submit the form - it shows 'Data not matched with NSP database', What should I do?",
+    "answer": "This means your personal or institutional data on the National Scholarship Portal (NSP) doesn't match what you've entered. Contact the institution to verify and correct the data they've uploaded. You may also contact the NSP helpdesk for support."
+  },
+  {
+    "question": "There is a mismatch in name/Aadhaar - how can I correct it?",
+    "answer": "You'll need to update your Aadhaar details at the nearest Aadhaar center or correct your profile on the portal if allowed. Name mismatches lead to rejections."
+  },
+  {
+    "question": "I submitted the wrong bank account details - can I edit them?",
+    "answer": "If you haven't locked/submitted the form, you can edit. Otherwise, contact the nodal officer at the university to request a reset or share this problem to the scholarship department."
+  },
+  {
+    "question": "How can I download the submitted scholarship form?",
+    "answer": "Log in to your scholarship account, go to the application history/dashboard, and look for a 'Download Application' or 'Print Form' option."
+  },
+  {
+    "question": "Where can I find the institution ID for form submission?",
+    "answer": "The institution ID is usually provided by the college's scholarship office. You may also find it on the official list of registered institutions on the portal."
+  },
+  {
+    "question": "When will the scholarship amount be credited to my account?",
+    "answer": "Once your application is verified by the institution and approved by the concerned department, the amount is generally released within 2-3 months. Keep checking the portal for payment updates."
+  },
+  {
+    "question": "My scholarship status says 'Payment under process' - what does it mean?",
+    "answer": "It means your application has passed all stages of verification and the payment is being processed by the treasury or PFMS. The amount will be credited soon, usually within a few working days."
+  },
+  {
+    "question": "I entered the wrong IFSC code - will it affect my scholarship?",
+    "answer": "Yes, an incorrect IFSC can delay or stop the fund transfer. Contact the scholarship portal's helpline or the nodal officer to correct it as soon as possible. In many portals, you can edit bank details before final submission."
+  },
+  {
+    "question": "What to do if my bank account is closed?",
+    "answer": "You need to update a new bank account that is Aadhaar-linked. Submit a request to update your account on the portal, if allowed, or contact the university's nodal officer for help in reopening your application form."
+  },
+  {
+    "question": "I haven't received the scholarship amount - whom should I contact?",
+    "answer": "First check PFMS portal (<a href='https://pfms.nic.in' target='_blank'>pfms.nic.in</a>) for payment status. If not credited, contact your university's scholarship cell or the state/district nodal officer."
+  },
+  {
+    "question": "Can I change my bank account after form submission?",
+    "answer": "Only if the portal allows editing before final submission. If already submitted, you may need institutional help to reject/reset the application."
+  },
+  {
+    "question": "Why was my scholarship application rejected?",
+    "answer": "Applications may be rejected due to reasons like invalid/missing documents, incorrect category/income info, data mismatch, or non-eligibility. Check the status message for the exact reason and contact your institution for clarification or rectification if possible."
+  },
+  {
+    "question": "My application is marked 'defective' - how do I fix it?",
+    "answer": "A defective status means some documents are missing or incorrect. You will get a notification to correct them. Log in, upload the correct document or make necessary edits, and resubmit the form before the correction deadline."
+  },
+  {
+    "question": "I didn't submit the income certificate - can I upload it now?",
+    "answer": "Only if your form hasn't been submitted. Otherwise, contact your university to reject it so you can edit and re-upload."
+  },
+  {
+    "question": "What is the meaning of 'Application rejected by institution'?",
+    "answer": "It means your university found an issue with your application — such as wrong info, invalid documents, or unmet eligibility criteria. Visit the scholarship office to find out the reason and check if reapplication is possible."
+  },
+  {
+    "question": "My form got rejected due to missing documents - can I reapply?",
+    "answer": "If you're still within the application window, yes — start a new application or correct the rejected one, depending on the portal's options."
+  },
+  {
+    "question": "What does 'Course not locked by institution' mean?",
+    "answer": "This message means that the institution hasn't finalized or confirmed your course details on the portal. Without this, you cannot proceed. Immediately contact the scholarship or admin department to lock your course."
+  },
+  {
+    "question": "How can I ask the university to lock my course on the portal?",
+    "answer": "You can visit the university's scholarship helpdesk or office and request them to lock your course. You may also email the nodal officer with your registration number and course name requesting action."
+  },
+  {
+    "question": "I submitted the form, but the institution hasn't verified it yet - what should I do?",
+    "answer": "University verification takes time, especially if many applications are pending. Politely follow up with the scholarship in-charge or send an email to check your verification status."
+  },
+  {
+    "question": "What should I do if my course still shows pending approval?",
+    "answer": "Inform the university's admin or scholarship in-charge to approve or lock the course on the portal. Until then, you won't be able to apply."
+  },
+  {
+    "question": "How to contact the nodal officer of the institution regarding course locking?",
+    "answer": "Visit the scholarship department or check the portal's 'Nodal Officer' List section for contact details of the college's officer."
+  },
+  {
+    "question": "Do I need to submit a hard copy of the scholarship form to the university?",
+    "answer": "Yes, you will have to submit the scholarship form as a hard copy along with the documents. Most schemes still require a hard copy submission with all documents. Always confirm with the university's instructions."
+  },
+  {
+    "question": "What if I drop out - do I still get the scholarship?",
+    "answer": "No. If you drop out, your scholarship will be canceled, and you may even have to refund any amount already credited."
+  },
+  {
+    "question": "My scholarship application is pending at the district level - how to resolve it?",
+    "answer": "Contact the district nodal officer responsible for verification. You can find their contact info on the portal or through your institution."
+  },
+  {
+    "question": "How to download the scholarship acknowledgement receipt?",
+    "answer": "After submission, go to your dashboard and select the 'Acknowledgement' or 'Print Receipt' option. Save or print the PDF copy for your records."
+  },
+  {
+    "question": "Whom to contact for help regarding the scholarship process?",
+    "answer": "You can contact your university's scholarship cell, the district/state nodal officer, or the helpline number/email mentioned on the official portal."
+  },
+  {
+    "question": "Give me the link of the scholarship portal.",
+    "answer": "The link of the scholarship portal is <a href='https://scholarship.up.gov.in' target='_blank'>scholarship.up.gov.in</a>"
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "What is the procedure for withdrawing from the BCA program?",
+    "answer": "To withdraw from the BCA program at BBAU Satellite Centre Amethi, students need to submit a formal withdrawal application. This application should be addressed to the Head of the Department and include details such as the student's name, roll number, and reason for withdrawal. After submitting the application, students may need to meet with the administration to finalize the withdrawal process and return any university property, like library books or ID cards. Any tuition or fees already paid may be non-refundable, depending on the time of withdrawal and university policy."
+  },
+  {
+    "question": "What is the process for issuing a duplicate identity card?",
+    "answer": "If a student loses their identity card, they must submit a request for a duplicate card at the college's administration office. This request typically includes a written application, proof of identity, and a small fee for re-issuing the ID. Students may also need to provide an affidavit or police report, depending on the circumstances of the loss, to process the replacement. The new ID card is generally issued within a few days of the application."
+  },
+  {
+    "question": "How can I get a recommendation letter from the college for internships or job applications?",
+    "answer": "Students seeking a recommendation letter for internships or jobs can request one from their faculty advisor or the Head of the Department. It is recommended to apply in advance, providing the purpose of the recommendation and any relevant details like the internship or job description. The faculty will review the student's academic performance and achievements before issuing a formal letter. Some departments may have specific forms or formats for such requests."
+  },
+  {
+    "question": "How does the college handle cases of academic misconduct or plagiarism?",
+    "answer": "Academic misconduct, including plagiarism, is taken seriously at BBAU Satellite Centre Amethi. When a case is suspected, the student may be called in for a discussion with the faculty or disciplinary committee. If found guilty, penalties can range from redoing assignments, failing the subject, or even suspension depending on the severity of the offense. The college aims to maintain academic integrity and follows a structured policy to address these cases fairly."
+  },
+  {
+    "question": "Does the college offer any mental health or counseling services for students?",
+    "answer": "BBAU Satellite Centre Amethi is committed to student well-being and may offer access to mental health and counseling services. Typically, the college provides a counselor or advisor for students who need support with academic or personal challenges. Students are encouraged to reach out to the student welfare department or administration to inquire about available counseling services, which may include individual sessions, workshops, or support groups."
+  },
+  {
+    "question": "How do I access the student portal for BCA?",
+    "answer": "To access the student portal, students at BBAU Satellite Centre Amethi should log in through the official university website with their unique student credentials. If students face difficulties, they can reach out to the administration office for help with access or password recovery."
+  },
+  {
+    "question": "What is the grading system for BCA at BBAU?",
+    "answer": "BBAU follows a semester-based grading system with a standard Grade Point Average(GPA) scale. Grades range from A+ to F, with A+ representing excellent performance and F indicating failure. Each grade corresponds to a specific grade point value. You also can get above the A+ grade which is O means Outstanding."
+  },
+  {
+    "question": "How many credits are required to complete the BCA program?",
+    "answer": "To complete the BCA or BCA Honors program, students must fulfill a credit requirement as specified in the curriculum, typically around 120-140 credits, depending on the specific program structure."
+  },
+  {
+    "question": "Can I change my elective course after selecting any course?",
+    "answer": "Students may request to change their elective course after selecting any course within the specified period at the beginning of the semester. Approval is based on availability and faculty consent, and the change is subject to the college's elective policy."
+  },
+  {
+    "question": "How do I apply for a scholarship for the BCA program?",
+    "answer": "Scholarships for the BCA program can be applied through the university's scholarship portal. Students should meet specific eligibility criteria, which may include academic performance, financial need, or other qualifications. Required documents include transcripts, proof of income, and a completed scholarship application form."
+  },
+  {
+    "question": "What is the procedure for reappearing in a failed subject?",
+    "answer": "To reappear in a failed subject, students need to fill the back-paper examination form after 1 year i.e. if any student fail in any subject in the 1st semester, then he/she will have to give the re-exam in the 3rd semester with the 3rd semester exams. He/she must have to follow the reappearance guidelines provided by the administration."
+  },
+  {
+    "question": "How can I check my attendance for the BCA courses?",
+    "answer": "If you want to check your attendance for the BCA then you will have to contact the teaching faculty of that particular subject."
+  },
+  {
+    "question": "Is there any provision for online classes for BCA students?",
+    "answer": "Online classes are offered for certain courses when needed, especially during disruptions. But this time university not offers any online classes for the BCA students."
+  },
+  {
+    "question": "How can I register for the upcoming semester?",
+    "answer": "You don't need to register for the upcoming semester, you only have to give the semester exam of the currently running semester, then after the exam you will automatically eligible for the next semester."
+  },
+  {
+    "question": "What is the procedure for applying for a leave of absence?",
+    "answer": "Students needing a leave of absence must submit a written application to the Head of the Department, explaining the reason and duration. If the leave exceeds a specified period, students may need additional documentation, such as medical certificates or guardian approval."
+  },
+  {
+    "question": "How do I participate in university-hosted technical fests or seminars?",
+    "answer": "Students can sign up for technical fests or seminars through announcements as sended in the course whatsapp group. Participation forms are generally digital, so you will get the participation links before the event."
+  },
+  {
+    "question": "Is there an option for lateral entry into the BCA program?",
+    "answer": "Yes, lateral entry is available for students who meet specific eligibility criteria, such as having completed a diploma in a relevant field. Applicants must follow the university's admission process for lateral entry."
+  },
+  {
+    "question": "How can I access previous years' question papers for BCA?",
+    "answer": "Previous years' question papers can only be accessed by the seniors. Alternatively, you don't have any option."
+  },
+  {
+    "question": "What facilities are available for practical sessions or lab work in BCA?",
+    "answer": "The BBAU Satellite Centre Amethi doesn't provide any computer lab equipped with the necessary hardware and software for BCA practical sessions."
+  },
+  {
+    "question": "How do I apply for a revaluation of my BCA exam results?",
+    "answer": "Students can apply for revaluation by submitting a revaluation form to the examination office and paying any applicable fees, if required. This application must be filed within the specified deadline after results are declared."
+  },
+  {
+    "question": "What is the deadline for paying the tuition fee for the BCA program?",
+    "answer": "The tuition fee payment deadline is usually announced before each semester. Students should check the whatsapp BCA course group's messages for exact dates and avoid late fees by paying within the specified time frame."
+  },
+  {
+    "question": "Can BCA students work part-time or participate in work-study programs?",
+    "answer": "While BBAU encourages students to focus on academics, some work-study programs or part-time internships are permitted with departmental approval."
+  },
+  {
+    "question": "What is the process for getting my degree certificate after completing BCA?",
+    "answer": "After graduation, students must submit a degree application form and pay any associated fees(if required). The university typically takes a few months to process and issue degree certificates."
+  },
+  {
+    "question": "How are industrial visits organized for BCA students?",
+    "answer": "Industrial visits are organized before or during the starting of your last semester of your course, often in collaboration with companies or industry partners. Students are notified in advance about such participation, may require consent forms or other formalities."
+  },
+  {
+    "question": "What is the process for submitting project work or final-year dissertations for BCA?",
+    "answer": "Final-year projects or dissertations must be submitted by the deadline set by the department. Students are generally required to present their work in front of a panel and submit a hard copy and digital copy of their project to the department office, when required."
+  },
+  {
+    "question": "Are there any opportunities for student exchange programs or international collaborations for BCA students?",
+    "answer": "Yes, BBAU encourages student exchange programs and international collaborations, allowing BCA students to gain global exposure and enhance their educational experience through partnerships with foreign universities."
+  },
+  {
+    "question": "Is there a mentorship program available for BCA students to connect with alumni or industry professionals?",
+    "answer": "The university doesn't have a mentorship program that connects BCA students with alumni and industry professionals."
+  },
+  {
+    "question": "What is the average class size for BCA courses?",
+    "answer": "The average class size for BCA courses at BBAU is typically around 30 to 50 students. This allows for personalized attention from faculty and more interactive learning experiences."
+  },
+  {
+    "question": "Are there any opportunities for research or independent study projects within the BCA program?",
+    "answer": "Yes, BCA students have opportunities to engage in research projects and independent studies. Students can work with faculty on ongoing research or propose their projects, fostering a deeper understanding of IT concepts."
+  },
+  {
+    "question": "What is the university's policy on plagiarism and academic integrity?",
+    "answer": "BBAU upholds strict policies on plagiarism and academic integrity. Any form of academic dishonesty is taken seriously and may result in disciplinary actions, including failing the course or more severe consequences."
+  },
+  {
+    "question": "Are there any counseling or career guidance services available for BCA students?",
+    "answer": "The university offers counseling and career guidance services to BCA students, providing support in academic planning, career exploration, and job placement assistance."
+  },
+  {
+    "question": "Is there a dedicated computer lab or IT facilities for BCA students to use?",
+    "answer": "No, BBAU doesn't provide any dedicated computer lab equipped with modern technology and software for BCA students, ensuring they have access to the necessary tools for practical learning."
+  },
+  {
+    "question": "What is the university's policy on attendance for BCA courses?",
+    "answer": "BBAU has a mandatory attendance policy for BCA courses, requiring students to maintain a minimum attendance percentage(75%) to be eligible for examinations and course credits."
+  },
+  {
+    "question": "Are there any opportunities for students to participate in hackathons or coding competitions?",
+    "answer": "BBAU actively encourages participation in hackathons and coding competitions, providing students with platforms to showcase their skills, collaborate, and innovate within the tech community. Every year, faculty organize these types of hackathons and coding competitions."
+  },
+  {
+    "question": "What is the process for obtaining a recommendation letter from a faculty member for BCA students?",
+    "answer": "BCA students can request a recommendation letter from faculty by approaching them directly, discussing their achievements, and providing necessary details about the opportunity for which the letter is needed."
+  },
+  {
+    "question": "Is there a student council or representative body for BCA students?",
+    "answer": "No, there is not any student council that represents BCA students' interests and concerns. There is no any body which works closely with faculty and administration to enhance the student experience."
+  },
+  {
+    "question": "What is the university's policy on using mobile phones or electronic devices during classes?",
+    "answer": "BBAU has a policy that allows the use of mobile phones and electronic devices during class when you have the permission of that faculty who is taking your class at that time, if it is used for educational purposes and without disrupting the learning environment."
+  },
+  {
+    "question": "Are there any opportunities for students to participate in community service or volunteer work?",
+    "answer": "BBAU encourages students to engage in community service and volunteer work, providing opportunities to give back to the community while enhancing their social responsibility and leadership skills."
+  },
+  {
+    "question": "What is the university's policy on disability accommodations for BCA students?",
+    "answer": "The university doesn't committed to inclusivity and doesn't provides accommodations for students with disabilities, ensuring equal access to education and resources. There is no any special rule for this, but disabled students will also get equal opportunity to study over here."
+  },
+  {
+    "question": "Is there a student health center or medical facility available on campus?",
+    "answer": "No, BBAU doesn't have any student health center that offers medical services."
+  },
+  {
+    "question": "What is the university's policy on using social media for academic purposes?",
+    "answer": "BBAU encourages the use of social media for academic purposes, promoting collaboration and communication among students and faculty while adhering to guidelines for respectful and constructive interactions."
+  },
+  {
+    "question": "Are there any opportunities for BCA students to participate in sports or extracurricular activities?",
+    "answer": "Yes, BBAU offers various sports and extracurricular activities for BCA students, fostering a well-rounded education and promoting physical health and teamwork."
+  },
+  {
+    "question": "What is the university's policy on the use of open-source software or tools in BCA courses?",
+    "answer": "BBAU promotes the use of open-source software and tools in BCA courses, encouraging students to familiarize themselves with widely-used technologies in the industry."
+  },
+  {
+    "question": "Are there any opportunities for BCA students to pursue minors or double majors with other programs?",
+    "answer": "BBAU allows BCA students to pursue minors or double majors in other programs, providing flexibility for students to broaden their academic scope and career options."
+  },
+  {
+    "question": "What is the university's policy on academic probation or suspension for BCA students?",
+    "answer": "BBAU has policies in place for academic probation and suspension, which are applied if a student fails to maintain the required academic standards. Students are typically given the opportunity to improve their performance before facing suspension."
+  },
+  {
+    "question": "Are there volunteer positions for managing university events?",
+    "answer": "Yes, BBAU Satellite Centre often seeks student volunteers for various university events, such as cultural fests, seminars, and workshops. BCA students can sign up as volunteers to gain experience in event management and meet students from other disciplines."
+  },
+  {
+    "question": "Are there student discounts available for software or hardware purchases?",
+    "answer": "The university provides guidance to students regarding discounts on certain software packages, especially for educational use. BCA students can check with the IT department or student services to get information about ongoing discounts for hardware and software relevant to their studies."
+  },
+  {
+    "question": "How do I report maintenance issues on campus?",
+    "answer": "Maintenance issues can be reported directly to the campus administration office. The administration staff will then address the issue or forward it to the relevant department for prompt action."
+  },
+  {
+    "question": "Are there any special facilities or resources for final-year students?",
+    "answer": "Final-year BCA students don't have any access to additional resources but it may be available in future. They can receive guidance on internships, job placements, and research opportunities by professors."
+  },
+  {
+    "question": "Are there any app development workshops for BCA students?",
+    "answer": "The Satellite Centre does not organize any workshops on topics like app development, web technologies, and programming languages."
+  },
+  {
+    "question": "Can I access my attendance record for individual subjects?",
+    "answer": "Students can only access their attendance via particular faculty of that particular subject."
+  },
+  {
+    "question": "How can I get involved in student government elections?",
+    "answer": "BBAU encourages students to participate in student government. BCA students interested in representing their peers can get information on the nomination and election process from the campus administration or student council."
+  },
+  {
+    "question": "Is there a fitness or wellness program offered for students?",
+    "answer": "The Satellite Centre promotes physical and mental wellness through various activities. Students have access to wellness sessions which are occasionally organized."
+  },
+  {
+    "question": "Are there advanced coding courses for students who excel in programming?",
+    "answer": "Advanced students doesn't offered any special courses or given access to online resources."
+  },
+  {
+    "question": "What are the guidelines for scheduling meetings with professors?",
+    "answer": "BCA students can schedule meetings during faculty office hours. Students should ideally request appointments."
+  },
+  {
+    "question": "Are there any inter-college competitions or collaborations?",
+    "answer": "The BBAU Satellite Centre doesn't organize any inter-college competitions, but you can join any inter-college coding competitions with your own choice."
+  },
+  {
+    "question": "How do I submit an idea for a new campus club or organization?",
+    "answer": "Students interested in forming a new club can submit a proposal to the student council or administration. Proposals should outline the purpose of the club, proposed activities, and a preliminary list of members to be considered."
+  },
+  {
+    "question": "Are there academic awards given to top-performing students?",
+    "answer": "BBAU Satellite Centre doesn't recognizes high-achieving students in any department."
+  },
+  {
+    "question": "How can I request special accommodations for exam conditions?",
+    "answer": "Students who require special accommodations due to health or personal circumstances can submit a formal request to the examination office. Supporting documentation may be required to approve the accommodations."
+  },
+  {
+    "question": "What is the protocol for reporting suspicious activities on campus?",
+    "answer": "Any suspicious activities should be reported immediately to campus security or the administration office. BBAU Satellite Centre prioritizes student safety and encourages all students to stay vigilant and proactive about campus security."
+  },
+  {
+    "question": "What is the workload like for BCA and BCA Honors programs?",
+    "answer": "The BCA programs require students to maintain a balanced workload of lectures, assignments, and projects. The Honors program may have a slightly heavier workload due to additional research projects and in-depth subject matter. Both programs encourage consistent study to manage coursework effectively."
+  },
+  {
+    "question": "Are there any opportunities for undergraduate research projects in BCA?",
+    "answer": "Yes, BCA students, especially those in the Honors program, have opportunities to engage in research projects under faculty guidance. These projects are typically offered in the later years of the program and allow students to gain research experience in areas of their interest."
+  },
+  {
+    "question": "What is the emphasis on practical learning and hands-on projects in BCA courses?",
+    "answer": "The BCA curriculum is designed to include a significant amount of practical learning. Projects, and assignments encourage hands-on experience with real-world IT applications, fostering a deeper understanding of theoretical concepts."
+  },
+  {
+    "question": "How is the course curriculum designed to keep up with the latest advancements in IT?",
+    "answer": "The BCA curriculum is to incorporate recent developments in the IT industry. It includes emerging technologies and current trends, ensuring that students are well-prepared to enter the professional field after graduation."
+  },
+  {
+    "question": "Are there any elective courses that I can choose to specialize in within BCA?",
+    "answer": "Yes, students can select from elective courses based on their areas of interest, allowing them to specialize in topics like software development, data analytics, cybersecurity, and web technologies."
+  },
+  {
+    "question": "How are group projects and assignments evaluated in BCA courses?",
+    "answer": "Group projects are evaluated based on various criteria, including the quality of work, innovation, and teamwork. Professors assess both individual contributions and group performance, often through presentations and reports."
+  },
+  {
+    "question": "What are the office hours of the professors and teaching assistants for BCA courses?",
+    "answer": "Office hours vary by professor, but generally, faculty members are available for consultations during specific times each week, you can simply ask for him/her for a meeting."
+  },
+  {
+    "question": "How can I seek help from the faculty for academic difficulties or personal issues?",
+    "answer": "Professors are approachable and willing to support students facing academic challenges. For personal issues, students can also reach out to the student support services or contact in the administration office."
+  },
+  {
+    "question": "Is there a dedicated academic advisor for BCA and BCA Honors students?",
+    "answer": "No, BCA and Honors students doesn't assigned any academic advisors who guide them in course selection, academic progression, and career planning, but in future it maybe available for students."
+  },
+  {
+    "question": "What are the timings for the computer labs and library?",
+    "answer": "The computer labs and library are open from 9:00 AM to 5:00 PM on weekdays(Monday to Friday), offering ample time for students to complete lab assignments and access study resources."
+  },
+  {
+    "question": "How can I access the high-speed internet facilities on campus?",
+    "answer": "The campus provides high-speed internet access, with Wi-Fi available in labs, classrooms, and other college areas. Students need to use their university credentials to access the network, only for the first time."
+  },
+  {
+    "question": "Are there any printing and scanning facilities available for students?",
+    "answer": "Yes, printing and scanning facilities are available on campus, located in the canteen, and students can use them for a nominal fee."
+  },
+  {
+    "question": "Is there a career counseling center that provides guidance for BCA and BCA Honors students?",
+    "answer": "Career counseling center are not available for any department to discuss industry-specific career paths and opportunities."
+  },
+  {
+    "question": "Are there any clubs or organizations specifically for IT enthusiasts and programmers?",
+    "answer": "Yes, BBAU Satellite Centre Amethi encourages IT students to join tech clubs and student-led organizations, including coding and software development groups. These clubs offer a space for students to collaborate, participate in hackathons, and share knowledge."
+  },
+  {
+    "question": "How can I participate in technical events and competitions organized by the college?",
+    "answer": "The college organizes various technical events throughout the year. Students can participate by contacting their department. Notices regarding these events are typically messaged in your course's whatsapp group."
+  },
+  {
+    "question": "Are there any opportunities for volunteering or community service initiatives?",
+    "answer": "Yes, students can volunteer in college-led social initiatives or community service programs. These opportunities not only enhance community engagement but also build leadership skills."
+  },
+  {
+    "question": "What are the rules and regulations regarding on-campus accommodation for BCA students?",
+    "answer": "There is no availability of on-campus accommodation for boys students because of the non-availability of boys hostel."
+  },
+  {
+    "question": "Are there any scholarships or financial aid options available for BCA students?",
+    "answer": "BBAU offers merit-based scholarships, need-based financial aid, and reserved-category scholarships. Students can inquire at the scholarship office or check the website for eligibility requirements and application deadlines."
+  },
+  {
+    "question": "What is the process for applying for a fee waiver or reduction?",
+    "answer": "Fee waivers are granted based on financial need and academic performance. Interested students should approach the administration office, fill out the necessary forms, and provide relevant documentation for consideration."
+  },
+  {
+    "question": "Are there any part-time job opportunities or internships on campus?",
+    "answer": "No, there are no any part-time jobs and internships on campus. The placement cell provides information about internships with local companies."
+  },
+  {
+    "question": "How can I manage my expenses and budget as a BCA student?",
+    "answer": "Students are encouraged to track their monthly expenses and take advantage of student discounts."
+  },
+  {
+    "question": "What is the placement record of the college for BCA and BCA Honors graduates?",
+    "answer": "BBAU Satellite Centre Amethi has a growing placement record, with graduates being placed in various IT firms and tech companies. The placement cell can provide specific statistics and placement records for the latest graduating batches."
+  },
+  {
+    "question": "How can I prepare for job interviews and resume writing?",
+    "answer": "The college doesn't organize resume-building workshops and mock interviews or any job interviews."
+  },
+  {
+    "question": "Are there any mock interview sessions or career workshops organized by the college?",
+    "answer": "No, the college doesn't organize mock interviews, career counseling sessions, and skill development workshops."
+  },
+  {
+    "question": "What are the top companies that recruit from BBAU Satellite Centre, Amethi?",
+    "answer": "There are no any top companies that recruit from BBAU Satellite Centre, Amethi. Only local companies of lucknow recruit. But in future, there may be availability of some top companies."
+  },
+  {
+    "question": "How can I stay updated about the latest job openings and recruitment drives?",
+    "answer": "Job openings and recruitment drives are updated on the college's placement portal and through notices on campus."
+  },
+  {
+    "question": "How can I report a grievance or complaint related to academic or non-academic issues?",
+    "answer": "Students can report grievances by filling out a complaint form available at the administrative office."
+  },
+  {
+    "question": "What is the process for requesting a leave of absence from classes?",
+    "answer": "To request a leave of absence, students must submit an application to their respective faculty or department head, detailing the reason and duration of absence. For medical emergencies, supporting documents may be required."
+  },
+  {
+    "question": "What is the student-teacher ratio for BCA at BBAU Satellite Centre Amethi?",
+    "answer": "The student-teacher ratio in the BCA program is designed to ensure personalized attention, generally around 25:1, allowing faculty to provide dedicated support to students."
+  },
+  {
+    "question": "Are there any guest lectures or industry expert sessions for BCA students?",
+    "answer": "Yes, BBAU Satellite Centre Amethi sometimes organizes guest lectures and sessions with industry experts to keep students updated with the latest trends and skills in IT."
+  },
+  {
+    "question": "What is the procedure for enrolling in summer courses?",
+    "answer": "There is no any facility of summer courses for students."
+  },
+  {
+    "question": "Does the BCA program offer any specialization tracks?",
+    "answer": "Currently, the BCA program at BBAU offers foundational IT education, though discussions are underway to introduce specializations such as Data Science and Cybersecurity in the future."
+  },
+  {
+    "question": "Are there any bridge courses for students who need extra help in certain subjects?",
+    "answer": "Yes, bridge courses are available, especially in subjects like programming and mathematics, to help students strengthen their foundational knowledge."
+  },
+  {
+    "question": "What type of projects are assigned in the final year of BCA?",
+    "answer": "Final-year BCA students work on real-world projects that involve software development, database management, and web technologies, designed to showcase practical skills to potential employers."
+  },
+  {
+    "question": "How often are practicals or lab sessions conducted in the BCA course?",
+    "answer": "Practical sessions are conducted weekly for each core subject, with a strong focus on hands-on learning in labs for programming, networking, and database management."
+  },
+  {
+    "question": "Can I transfer credits from another university into the BCA program?",
+    "answer": "Credit transfer policies are subject to the university's guidelines. Students from recognized institutions may apply for credit transfer by providing transcripts and course details for evaluation."
+  },
+  {
+    "question": "How are group projects or assignments managed in the BCA program?",
+    "answer": "Group projects are assigned for collaborative learning, with students working in small teams. Each group is guided by a faculty advisor to ensure fair division of work and accountability."
+  },
+  {
+    "question": "Are there specific times during the year when BCA faculty are available for office hours?",
+    "answer": "Faculty members hold office hours every week, with additional availability during exam preparation periods."
+  },
+  {
+    "question": "Are there any preparatory sessions for students before the exams?",
+    "answer": "Yes, the faculty organizes review and preparatory sessions to help students understand key concepts and clarify doubts before exams."
+  },
+  {
+    "question": "What resources are available for students to improve their coding skills?",
+    "answer": "Coding resources include access to online coding platforms, library resources."
+  },
+  {
+    "question": "Can BCA students propose new student clubs or activities?",
+    "answer": "Students are encouraged to propose and start new clubs by presenting their ideas to the student affairs committee, which evaluates and approves new clubs based on student interest and resource availability."
+  },
+  {
+    "question": "How can I stay updated with upcoming seminars or workshops relevant to BCA?",
+    "answer": "Notices for seminars, workshops, and events are messaged in you course's whatsapp group."
+  },
+  {
+    "question": "Does BBAU Satellite Centre Amethi have partnerships with tech companies?",
+    "answer": "Yes, BBAU Satellite Centre has partnerships with a few tech companies to offer internships and industry training. More collaborations are in the pipeline to enhance job placement prospects."
+  },
+  {
+    "question": "Are there any platforms for BCA students to share their projects or research?",
+    "answer": "No, there are no any platforms for BCA students to share their projects or research."
+  },
+  {
+    "question": "What tools are used to manage assignments and submissions in the BCA program?",
+    "answer": "BBAU uses a Learning Management System (LMS) where students can submit assignments."
+  },
+  {
+    "question": "How often are the BCA courses updated to reflect industry standards?",
+    "answer": "The curriculum is reviewed and updated every three years, incorporating feedback from industry experts to align the program with current technology trends and industry needs."
+  },
+  {
+    "question": "Is there any special recognition for high-performing BCA students?",
+    "answer": "No, high-performing students are not awarded."
+  },
+  {
+    "question": "How can I schedule an appointment with my BCA academic advisor?",
+    "answer": "Students can schedule appointments by contacting their advisors directly or through the department office. Advisors are typically available during designated office hours for consultation."
+  },
+  {
+    "question": "Does the university provide any training for presentation or public speaking skills?",
+    "answer": "No, the university doesn't organize any workshops and seminars on presentation and public speaking skills but some faculty take presentation to improve our public speaking skills, specifically aimed at helping students develop confidence in professional settings."
+  },
+  {
+    "question": "What are the available resources for BCA students preparing for campus placements?",
+    "answer": "BCA students doesn't have access to any such type of resource preparing for campus placements."
+  },
+  {
+    "question": "How does the university handle late submissions of assignments?",
+    "answer": "Late submissions are generally penalized according to university policy, but exceptions may be granted for valid reasons if students inform faculty members in advance."
+  },
+  {
+    "question": "What is the policy on rescheduling exams due to medical reasons?",
+    "answer": "Students can request for the rescheduling of sessional exam by providing a valid medical certificate and notifying the examination cell. Approval is granted based on individual circumstances. But there is no any rule or policy to reschedule your semester exams (If you will absent in any semester exam due to any reason so you will have to give the Back paper next year)."
+  },
+  {
+    "question": "Are there any online platforms provided by the college for collaborative work?",
+    "answer": "The university doesn't provides any access to online collaborative tools."
+  },
+  {
+    "question": "What extracurricular courses can complement my BCA degree?",
+    "answer": "Courses in soft skills,and project management are available to complement the BCA degree, enhancing employability and broader learning."
+  },
+  {
+    "question": "Are there any leadership programs for BCA students?",
+    "answer": "Yes, students can participate in leadership programs like student government, technical clubs, and event organization roles, providing them with valuable leadership experience."
+  },
+  {
+    "question": "What is the procedure for reporting grievances related to academic issues?",
+    "answer": "Students can file grievances with the Academic Grievance Cell, which reviews complaints and provides solutions. Forms for grievance reporting are available in the administration office."
+  },
+  {
+    "question": "Can students take part in curriculum planning or feedback sessions?",
+    "answer": "Students are encouraged to provide feedback on courses through surveys and feedback sessions. The feedback is considered for curriculum updates and improvements."
+  },
+  {
+    "question": "What IT-related electives can BCA students take from other departments?",
+    "answer": "BCA students may opt for electives like Data Analysis, or Management Information Systems, depending on course availability and approval from the department."
+  },
+  {
+    "question": "Are there weekend or evening classes available for BCA?",
+    "answer": "Currently, weekend or evening classes are not available for the BCA program, but extra classes maybe occasionally organized during exam periods for additional support."
+  },
+  {
+    "question": "Can BCA students participate in study-abroad programs?",
+    "answer": "Yes, BBAU Satellite Centre offers study-abroad opportunities, and interested BCA students should consult the administration Office for information on eligibility and application procedures."
+  },
+  {
+    "question": "What steps does the university take to prevent discrimination on campus?",
+    "answer": "The university has an Anti-Discrimination Policy, ensuring equal opportunities for all students. There is also an active committee that handles cases of discrimination or harassment."
+  },
+  {
+    "question": "How are library resources for BCA updated to include the latest materials?",
+    "answer": "The library regularly updates its IT-related resources by adding the latest textbooks, journals, e-books, and research papers based on recommendations from faculty members."
+  },
+  {
+    "question": "Does the university provide assistance with internship applications?",
+    "answer": "No, there is no any Career Services team are available which helps students provide assistance with internship applications."
+  },
+  {
+    "question": "How can students improve their professional communication skills?",
+    "answer": "The university organizes workshops on professional communication, and students can also join clubs where they practice and improve these skills in group settings."
+  },
+  {
+    "question": "Are there any competitions within the BCA department?",
+    "answer": "The department organizes coding competitions,and hackathons, where students can showcase their skills and compete with peers. Every department has competitive students."
+  },
+  {
+    "question": "What is the duration of the BScIT program?",
+    "answer": "The BScIT program is a 3-year undergraduate course, divided into 6 semesters."
+  },
+  {
+    "question": "What is the duration of the BScIT-Honours program?",
+    "answer": "The BScIT-Honours program is a 4-year undergraduate course, divided into 8 semesters."
+  },
+  {
+    "question": "What are the eligibility criteria for BScIT at BBAU Satellite Centre Amethi?",
+    "answer": "The eligibility criteria for admission to BScIT is a 10+2 qualification in Science stream with Mathematics as one of the subjects, and the candidate must pass with a minimum of 50% aggregate marks."
+  },
+  {
+    "question": "What is the course fee for BScIT?",
+    "answer": "The course fee for BScIT at the BBAU Satellite Centre Amethi is approximately ₹15,000 per year, but it is recommended to check the official website or contact the admissions office for the latest information."
+  },
+  {
+    "question": "What subjects are covered in the first semester of BScIT?",
+    "answer": "The subjects in the first semester typically include -<br>Programming Fundamentals using C,<br>Computer Organization & Architecture,<br>Mathematics-I,<br>Communication Skills,<br>Environmental Science."
+  },
+  {
+    "question": "Are there internship opportunities provided by the university for BScIT students?",
+    "answer": "Yes, BBAU encourages students to pursue internships during their course. Students are often provided guidance on finding internships, especially in their final year."
+  },
+  {
+    "question": "What are the career options after completing BScIT?",
+    "answer": "After completing BScIT, you can pursue careers in -<br>Software Development,<br>System Analyst,<br>Network Administration,<br>Database Management,<br>IT Consultancy,<br>Further studies like MScIT or MCA."
+  },
+  {
+    "question": "How do I apply for the BScIT program at BBAU, Satellite Centre, Amethi?",
+    "answer": "You can apply for the BScIT program through the BBAU official website during the admission period. The application process is online, and you will need to provide academic details and required documents."
+  },
+  {
+    "question": "What are the class timings for BScIT students?",
+    "answer": "Class timings typically run from 9:00 AM to 4:00 PM, with breaks in between. However, the schedule may vary depending on the semester and subject."
+  },
+  {
+    "question": "Is hostel accommodation available for BScIT students?",
+    "answer": "Yes, BBAU, Satellite Centre, Amethi provides hostel accommodation only for girls. You can inquire with the hostel office for availability and fees."
+  },
+  {
+    "question": "Are there any extracurricular activities or student clubs available for BScIT students?",
+    "answer": "Yes, the university offers various student clubs, technical societies, and extracurricular activities such as sports, coding competitions, seminars, and cultural events that BScIT students can participate in."
+  },
+  {
+    "question": "How can I contact the faculty of BScIT for doubts or queries?",
+    "answer": "You can contact the faculty members via email or during their office hours. The contact details of faculty members are usually provided on the university website or you can get them through the university's administration office."
+  },
+  {
+    "question": "What is the examination pattern for BScIT?",
+    "answer": "The BScIT program follows a semester system, and each semester has a mid-semester exam and an end-semester exam. Additionally, there are internal assessments, assignments, and practical exams."
+  },
+  {
+    "question": "What is the passing criteria for each subject in the BScIT program?",
+    "answer": "To pass a subject, a student typically needs to score at least 40% in both internal and external exams. Specific details can be found in the university's academic regulations."
+  },
+  {
+    "question": "What is the procedure for withdrawing from the BScIT program?",
+    "answer": "To withdraw from the BScIT program at BBAU Satellite Centre Amethi, students need to submit a formal withdrawal application. This application should be addressed to the Head of the Department and include details such as the student's name, roll number, and reason for withdrawal. After submitting the application, students may need to meet with the administration to finalize the withdrawal process and return any university property, like library books or ID cards. Any tuition or fees already paid may be non-refundable, depending on the time of withdrawal and university policy."
+  },
+  {
+    "question": "How do I access the student portal for BScIT?",
+    "answer": "To access the student portal, students at BBAU Satellite Centre Amethi should log in through the official university website with their unique student credentials. If students face difficulties, they can reach out to the administration office for help with access or password recovery."
+  },
+  {
+    "question": "What is the grading system for BScIT at BBAU?",
+    "answer": "BBAU follows a semester-based grading system with a standard Grade Point Average(GPA) scale. Grades range from A+ to F, with A+ representing excellent performance and F indicating failure. Each grade corresponds to a specific grade point value. You also can get above the A+ grade which is O means Outstanding."
+  },
+  {
+    "question": "How many credits are required to complete the BScIT program?",
+    "answer": "To complete the BScIT or BScIT Honors program, students must fulfill a credit requirement as specified in the curriculum, typically around 120-140 credits, depending on the specific program structure."
+  },
+  {
+    "question": "How do I apply for a scholarship for the BScIT program?",
+    "answer": "Scholarships for the BScIT program can be applied through the university's scholarship portal. Students should meet specific eligibility criteria, which may include academic performance, financial need, or other qualifications. Required documents include transcripts, proof of income, and a completed scholarship application form."
+  },
+  {
+    "question": "How can I check my attendance for the BScIT courses?",
+    "answer": "If you want to check your attendance for the BScIT then you will have to contact the teaching faculty of that particular subject."
+  },
+  {
+    "question": "Is there any provision for online classes for BScIT students?",
+    "answer": "Online classes are offered for certain courses when needed, especially during disruptions. But this time university not offers any online classes for the BScIT students."
+  },
+  {
+    "question": "Is there an option for lateral entry into the BScIT program?",
+    "answer": "Yes, lateral entry is available for students who meet specific eligibility criteria, such as having completed a diploma in a relevant field. Applicants must follow the university's admission process for lateral entry."
+  },
+  {
+    "question": "How can I access previous years' question papers for BScIT?",
+    "answer": "Previous years' question papers can only be accessed by the seniors. Alternatively, you don't have any option."
+  },
+  {
+    "question": "What facilities are available for practical sessions or lab work in BScIT?",
+    "answer": "The BBAU Satellite Centre Amethi doesn't provide any computer lab equipped with the necessary hardware and software for BScIT practical sessions."
+  },
+  {
+    "question": "How do I apply for a revaluation of my BScIT exam results?",
+    "answer": "Students can apply for revaluation by submitting a revaluation form to the examination office and paying any applicable fees, if required. This application must be filed within the specified deadline after results are declared."
+  },
+  {
+    "question": "What is the deadline for paying the tuition fee for the BScIT program?",
+    "answer": "The tuition fee payment deadline is usually announced before each semester. Students should check the whatsapp BScIT course group's messages for exact dates and avoid late fees by paying within the specified time frame."
+  },
+  {
+    "question": "Can BScIT students work part-time or participate in work-study programs?",
+    "answer": "While BBAU encourages students to focus on academics, some work-study programs or part-time internships are permitted with departmental approval."
+  },
+  {
+    "question": "What is the process for getting my degree certificate after completing BScIT?",
+    "answer": "After graduation, students must submit a degree application form and pay any associated fees(if required). The university typically takes a few months to process and issue degree certificates."
+  },
+  {
+    "question": "How are industrial visits organized for BScIT students?",
+    "answer": "Industrial visits are organized before or during the starting of your last semester of your course, often in collaboration with companies or industry partners. Students are notified in advance about such participation, may require consent forms or other formalities."
+  },
+  {
+    "question": "What is the process for submitting project work or final-year dissertations for BScIT?",
+    "answer": "Final-year projects or dissertations must be submitted by the deadline set by the department. Students are generally required to present their work in front of a panel and submit a hard copy and digital copy of their project to the department office, when required."
+  },
+  {
+    "question": "Are there any opportunities for student exchange programs or international collaborations for BScIT students?",
+    "answer": "Yes, BBAU encourages student exchange programs and international collaborations, allowing BScIT students to gain global exposure and enhance their educational experience through partnerships with foreign universities."
+  },
+  {
+    "question": "Is there a mentorship program available for BScIT students to connect with alumni or industry professionals?",
+    "answer": "The university doesn't have a mentorship program that connects BScIT students with alumni and industry professionals."
+  },
+  {
+    "question": "What is the average class size for BScIT courses?",
+    "answer": "The average class size for BScIT courses at BBAU is typically around 30 to 50 students. This allows for personalized attention from faculty and more interactive learning experiences."
+  },
+  {
+    "question": "Are there any opportunities for research or independent study projects within the BScIT program?",
+    "answer": "Yes, BScIT students have opportunities to engage in research projects and independent studies. Students can work with faculty on ongoing research or propose their projects, fostering a deeper understanding of IT concepts."
+  },
+  {
+    "question": "Are there any counseling or career guidance services available for BScIT students?",
+    "answer": "The university offers counseling and career guidance services to BScIT students, providing support in academic planning, career exploration, and job placement assistance."
+  },
+  {
+    "question": "Is there a dedicated computer lab or IT facilities for BScIT students to use?",
+    "answer": "No, BBAU doesn't provide any dedicated computer lab equipped with modern technology and software for BScIT students, ensuring they have access to the necessary tools for practical learning."
+  },
+  {
+    "question": "What is the university's policy on attendance for BScIT courses?",
+    "answer": "BBAU has a mandatory attendance policy for BScIT courses, requiring students to maintain a minimum attendance percentage(75%) to be eligible for examinations and course credits."
+  },
+  {
+    "question": "What is the process for obtaining a recommendation letter from a faculty member for BScIT students?",
+    "answer": "BScIT students can request a recommendation letter from faculty by approaching them directly, discussing their achievements, and providing necessary details about the opportunity for which the letter is needed."
+  },
+  {
+    "question": "Is there a student council or representative body for BScIT students?",
+    "answer": "No, there is not any student council that represents BScIT students' interests and concerns. There is no any body which works closely with faculty and administration to enhance the student experience."
+  },
+  {
+    "question": "What is the university's policy on disability accommodations for BScIT students?",
+    "answer": "The university doesn't committed to inclusivity and doesn't provides accommodations for students with disabilities, ensuring equal access to education and resources. There is no any special rule for this, but disabled students will also get equal opportunity to study over here."
+  },
+  {
+    "question": "Are there any opportunities for BScIT students to participate in sports or extracurricular activities?",
+    "answer": "Yes, BBAU offers various sports and extracurricular activities for BScIT students, fostering a well-rounded education and promoting physical health and teamwork."
+  },
+  {
+    "question": "What is the university's policy on the use of open-source software or tools in BScIT courses?",
+    "answer": "BBAU promotes the use of open-source software and tools in BScIT courses, encouraging students to familiarize themselves with widely-used technologies in the industry."
+  },
+  {
+    "question": "Are there any opportunities for BScIT students to pursue minors or double majors with other programs?",
+    "answer": "BBAU allows BScIT students to pursue minors or double majors in other programs, providing flexibility for students to broaden their academic scope and career options."
+  },
+  {
+    "question": "What is the university's policy on academic probation or suspension for BScIT students?",
+    "answer": "BBAU has policies in place for academic probation and suspension, which are applied if a student fails to maintain the required academic standards. Students are typically given the opportunity to improve their performance before facing suspension."
+  },
+  {
+    "question": "Are there any app development workshops for BScIT students?",
+    "answer": "The Satellite Centre does not organize any workshops on topics like app development, web technologies, and programming languages."
+  },
+  {
+    "question": "What is the workload like for BScIT and BScIT Honors programs?",
+    "answer": "The BScIT programs require students to maintain a balanced workload of lectures, assignments, and projects. The Honors program may have a slightly heavier workload due to additional research projects and in-depth subject matter. Both programs encourage consistent study to manage coursework effectively."
+  },
+  {
+    "question": "Are there any opportunities for undergraduate research projects in BScIT?",
+    "answer": "Yes, BScIT students, especially those in the Honors program, have opportunities to engage in research projects under faculty guidance. These projects are typically offered in the later years of the program and allow students to gain research experience in areas of their interest."
+  },
+  {
+    "question": "What is the emphasis on practical learning and hands-on projects in BScIT courses?",
+    "answer": "The BScIT curriculum is designed to include a significant amount of practical learning. Projects, and assignments encourage hands-on experience with real-world IT applications, fostering a deeper understanding of theoretical concepts."
+  },
+  {
+    "question": "Are there any elective courses that I can choose to specialize in within BScIT?",
+    "answer": "Yes, students can select from elective courses based on their areas of interest, allowing them to specialize in topics like software development, data analytics, cybersecurity, and web technologies."
+  },
+  {
+    "question": "How are group projects and assignments evaluated in BScIT courses?",
+    "answer": "Group projects are evaluated based on various criteria, including the quality of work, innovation, and teamwork. Professors assess both individual contributions and group performance, often through presentations and reports."
+  },
+  {
+    "question": "What are the office hours of the professors and teaching assistants for BScIT courses?",
+    "answer": "Office hours vary by professor, but generally, faculty members are available for consultations during specific times each week, you can simply ask for him/her for a meeting."
+  },
+  {
+    "question": "Is there a dedicated academic advisor for BScIT and BScIT Honors students?",
+    "answer": "No, BScIT and Honors students doesn't assigned any academic advisors who guide them in course selection, academic progression, and career planning, but in future it maybe available for students."
+  },
+  {
+    "question": "Is there a career counseling center that provides guidance for BScIT and BScIT Honors students?",
+    "answer": "Career counseling center are not available for any department to discuss industry-specific career paths and opportunities."
+  },
+  {
+    "question": "What are the rules and regulations regarding on-campus accommodation for BScIT students?",
+    "answer": "There is no availability of on-campus accommodation for boys students because of the non-availability of boys hostel."
+  },
+  {
+    "question": "Are there any scholarships or financial aid options available for BScIT students?",
+    "answer": "BBAU offers merit-based scholarships, need-based financial aid, and reserved-category scholarships. Students can inquire at the scholarship office or check the website for eligibility requirements and application deadlines."
+  },
+  {
+    "question": "How can I manage my expenses and budget as a BScIT student?",
+    "answer": "Students are encouraged to track their monthly expenses and take advantage of student discounts."
+  },
+  {
+    "question": "What is the placement record of the college for BScIT and BScIT Honors graduates?",
+    "answer": "BBAU Satellite Centre Amethi has a growing placement record, with graduates being placed in various IT firms and tech companies. The placement cell can provide specific statistics and placement records for the latest graduating batches."
+  },
+  {
+    "question": "What is the student-teacher ratio for BScIT at BBAU Satellite Centre Amethi?",
+    "answer": "The student-teacher ratio in the BScIT program is designed to ensure personalized attention, generally around 25:1, allowing faculty to provide dedicated support to students."
+  },
+  {
+    "question": "Are there any guest lectures or industry expert sessions for BScIT students?",
+    "answer": "Yes, BBAU Satellite Centre Amethi sometimes organizes guest lectures and sessions with industry experts to keep students updated with the latest trends and skills in IT."
+  },
+  {
+    "question": "Does the BScIT program offer any specialization tracks?",
+    "answer": "Currently, the BScIT program at BBAU offers foundational IT education, though discussions are underway to introduce specializations such as Data Science and Cybersecurity in the future."
+  },
+  {
+    "question": "What type of projects are assigned in the final year of BScIT?",
+    "answer": "Final-year BScIT students work on real-world projects that involve software development, database management, and web technologies, designed to showcase practical skills to potential employers."
+  },
+  {
+    "question": "How often are practicals or lab sessions conducted in the BScIT course?",
+    "answer": "Practical sessions are conducted weekly for each core subject, with a strong focus on hands-on learning in labs for programming, networking, and database management."
+  },
+  {
+    "question": "Can I transfer credits from another university into the BScIT program?",
+    "answer": "Credit transfer policies are subject to the university's guidelines. Students from recognized institutions may apply for credit transfer by providing transcripts and course details for evaluation."
+  },
+  {
+    "question": "How are group projects or assignments managed in the BScIT program?",
+    "answer": "Group projects are assigned for collaborative learning, with students working in small teams. Each group is guided by a faculty advisor to ensure fair division of work and accountability."
+  },
+  {
+    "question": "Are there specific times during the year when BScIT faculty are available for office hours?",
+    "answer": "Faculty members hold office hours every week, with additional availability during exam preparation periods."
+  },
+  {
+    "question": "Can BScIT students propose new student clubs or activities?",
+    "answer": "Students are encouraged to propose and start new clubs by presenting their ideas to the student affairs committee, which evaluates and approves new clubs based on student interest and resource availability."
+  },
+  {
+    "question": "How can I stay updated with upcoming seminars or workshops relevant to BScIT?",
+    "answer": "Notices for seminars, workshops, and events are messaged in you course's whatsapp group."
+  },
+  {
+    "question": "Are there any platforms for BScIT students to share their projects or research?",
+    "answer": "No, there are no any platforms for BScIT students to share their projects or research."
+  },
+  {
+    "question": "What tools are used to manage assignments and submissions in the BScIT program?",
+    "answer": "BBAU uses a Learning Management System (LMS) where students can submit assignments."
+  },
+  {
+    "question": "How often are the BScIT courses updated to reflect industry standards?",
+    "answer": "The curriculum is reviewed and updated every three years, incorporating feedback from industry experts to align the program with current technology trends and industry needs."
+  },
+  {
+    "question": "Is there any special recognition for high-performing BScIT students?",
+    "answer": "No, high-performing students are not awarded."
+  },
+  {
+    "question": "How can I schedule an appointment with my BScIT academic advisor?",
+    "answer": "Students can schedule appointments by contacting their advisors directly or through the department office. Advisors are typically available during designated office hours for consultation."
+  },
+  {
+    "question": "What are the available resources for BScIT students preparing for campus placements?",
+    "answer": "BScIT students doesn't have access to any such type of resource preparing for campus placements."
+  },
+  {
+    "question": "What extracurricular courses can complement my BScIT degree?",
+    "answer": "Courses in soft skills,and project management are available to complement the BScIT degree, enhancing employability and broader learning."
+  },
+  {
+    "question": "Are there any leadership programs for BScIT students?",
+    "answer": "Yes, students can participate in leadership programs like student government, technical clubs, and event organization roles, providing them with valuable leadership experience."
+  },
+  {
+    "question": "What IT-related electives can BScIT students take from other departments?",
+    "answer": "BScIT students may opt for electives like Data Analysis, or Management Information Systems, depending on course availability and approval from the department."
+  },
+  {
+    "question": "Are there weekend or evening classes available for BScIT?",
+    "answer": "Currently, weekend or evening classes are not available for the BScIT program, but extra classes maybe occasionally organized during exam periods for additional support."
+  },
+  {
+    "question": "Can BScIT students participate in study-abroad programs?",
+    "answer": "Yes, BBAU Satellite Centre offers study-abroad opportunities, and interested BScIT students should consult the administration Office for information on eligibility and application procedures."
+  },
+  {
+    "question": "What do you mean by Sex, fuck?",
+    "answer": "This Platform is meant to assist students with university-related problems, not personal or inappropriate discussion. Please respect the Chat-Genie's purpose, your focus should be on study. Feel free to ask about the university, scholarship-related queries, etc. I'd be happy to assist you."
+  },
+  {
+    "question": "How are library resources for BScIT updated to include the latest materials?",
+    "answer": "The library regularly updates its IT-related resources by adding the latest textbooks, journals, e-books, and research papers based on recommendations from faculty members."
+  },
+  {
+    "question": "Are there any competitions within the BScIT department?",
+    "answer": "The department organizes coding competitions,and hackathons, where students can showcase their skills and compete with peers."
+  },
+  {
+    "question": "Exit chat",
+    "answer": "Thank you for giving me opportunity to help you. If you need further assistance, so you can ask me. Goodbye! Have a nice day!"
+  },
+  {
+    "question": "Exit",
+    "answer": "Thank you for giving me opportunity to help you. If you need further assistance, so you can ask me. Goodbye! Have a nice day!"
+  }
+]
